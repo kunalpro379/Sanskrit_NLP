@@ -1,0 +1,3367 @@
+{
+  "sentences": [
+    {
+      "original_sentence": "आत्मा सर्वत्र व्याप्यते। मनः चित्तसंग्रहाय कार्यं करोति। जीवनं दुःखसुखयोः मिश्रितं भवति। धर्मः आत्मनः प्रगतिपथः। अर्थस्य साधनं आवश्यकं, किंतु अहंकारं त्यजेत्। कामे च संयमः धर्मेण सह योजनीयः। मोक्षाय साधना अनिवार्या। सत्यं वद, अहिंसा चर, क्षमा धर्तु। मित्राणां संगः सुखदायकः, शत्रूणां संगः दुखदायकः। गुरुशिष्ययोः संबंधः ज्ञानस्य आधारः।",
+      "annotation": [
+        {
+          "text": "आत्मा",
+          "deprel": "obj",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "आत्मन्",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "सर्वत्र",
+          "deprel": "obj",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "सर्वत्र",
+              "category": [
+                "indeclinable forms such as adverbs, conjunctions, prepositions"
+              ],
+              "synset_data": [
+                {
+                  "synset": "Synset('प्रतिस्थानम्.adverb.11086')",
+                  "examples": [
+                    "रक्षार्थं सैनिकाः प्रतिस्थानं तिष्ठन्ति।"
+                  ],
+                  "gloss": "प्रत्येकस्मिन् स्थाने।",
+                  "head_word": "प्रतिस्थानम्",
+                  "lemma_names": [
+                    "प्रतिस्थानम्",
+                    "स्थाने स्थाने",
+                    "अभितः",
+                    "परितः",
+                    "सर्वत्र",
+                    "सर्वतः",
+                    "मार्गवर्त्मसु",
+                    "विष्वञ्च्"
+                  ],
+                  "lemmas": [
+                    "Lemma('प्रतिस्थानम्.adverb.11086.प्रतिस्थानम्')",
+                    "Lemma('प्रतिस्थानम्.adverb.11086.स्थाने स्थाने')",
+                    "Lemma('प्रतिस्थानम्.adverb.11086.अभितः')",
+                    "Lemma('प्रतिस्थानम्.adverb.11086.परितः')",
+                    "Lemma('प्रतिस्थानम्.adverb.11086.सर्वत्र')",
+                    "Lemma('प्रतिस्थानम्.adverb.11086.सर्वतः')",
+                    "Lemma('प्रतिस्थानम्.adverb.11086.मार्गवर्त्मसु')",
+                    "Lemma('प्रतिस्थानम्.adverb.11086.विष्वञ्च्')"
+                  ],
+                  "pos": "adverb"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "व्याप्यते।",
+          "deprel": "obj",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "व्याप्यता",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "वि-आप्",
+              "category": [
+                "special infinitive form"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "वि-इ",
+              "category": [
+                "special infinitive form"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "व्याप्यता",
+              "category": [
+                "vocative"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "मनः",
+          "deprel": "obj",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "मनस्",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "मनस्",
+              "category": [
+                "vocative"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "चित्तसंग्रहाय",
+          "deprel": "compound:coord",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "चित्त",
+              "category": [
+                "initial part of compounds"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "सङ्ग्रह",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "चित्त",
+              "category": [
+                "initial part of compounds"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "सङ्ग्रह",
+              "category": [
+                "exocentric compound"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "कार्यं",
+          "deprel": "obj",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "कार्यं",
+              "category": [
+                "unrecognized"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "करोति।",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "कृ१",
+              "category": [
+                "special infinitive form"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "जीवनं",
+          "deprel": "compound:coord",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "जीवनं",
+              "category": [
+                "unrecognized"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "दुःखसुखयोः",
+          "deprel": "compound:coord",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "दुःख",
+              "category": [
+                "initial part of compounds"
+              ],
+              "synset_data": [
+                {
+                  "synset": "Synset('क्लेशः.noun.4224')",
+                  "examples": [
+                    "नैकान् क्लेशान् अन्वभवन् देशभक्ताः भारतदेशस्य स्वातन्त्र्यार्थे। / क्लेशः फलेन हि पुनर्नवतां विधत्ते। "
+                  ],
+                  "gloss": "शारीरिकी मानसिकी वा पीडा।",
+                  "head_word": "क्लेशः",
+                  "lemma_names": [
+                    "क्लेशः",
+                    "वेदना",
+                    "पीडा",
+                    "दुःख",
+                    "तोदः"
+                  ],
+                  "lemmas": [
+                    "Lemma('क्लेशः.noun.4224.क्लेशः')",
+                    "Lemma('क्लेशः.noun.4224.वेदना')",
+                    "Lemma('क्लेशः.noun.4224.पीडा')",
+                    "Lemma('क्लेशः.noun.4224.दुःख')",
+                    "Lemma('क्लेशः.noun.4224.तोदः')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('खेद.noun.2819')",
+                  "examples": [
+                    "खेदः अस्ति यदा भवतः कार्यं विलम्बेन जातम्।"
+                  ],
+                  "gloss": "किमपि उचितम् आवश्यकं प्रियं वा कार्यं यदा न भवति तदा  मनसि जातः शोकः।",
+                  "head_word": "खेद",
+                  "lemma_names": [
+                    "खेद",
+                    "दुःख"
+                  ],
+                  "lemmas": [
+                    "Lemma('खेद.noun.2819.खेद')",
+                    "Lemma('खेद.noun.2819.दुःख')"
+                  ],
+                  "pos": "noun"
+                }
+              ]
+            },
+            {
+              "root": "सुख",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "सुखा",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "दुःख",
+              "category": [
+                "initial part of compounds"
+              ],
+              "synset_data": [
+                {
+                  "synset": "Synset('क्लेशः.noun.4224')",
+                  "examples": [
+                    "नैकान् क्लेशान् अन्वभवन् देशभक्ताः भारतदेशस्य स्वातन्त्र्यार्थे। / क्लेशः फलेन हि पुनर्नवतां विधत्ते। "
+                  ],
+                  "gloss": "शारीरिकी मानसिकी वा पीडा।",
+                  "head_word": "क्लेशः",
+                  "lemma_names": [
+                    "क्लेशः",
+                    "वेदना",
+                    "पीडा",
+                    "दुःख",
+                    "तोदः"
+                  ],
+                  "lemmas": [
+                    "Lemma('क्लेशः.noun.4224.क्लेशः')",
+                    "Lemma('क्लेशः.noun.4224.वेदना')",
+                    "Lemma('क्लेशः.noun.4224.पीडा')",
+                    "Lemma('क्लेशः.noun.4224.दुःख')",
+                    "Lemma('क्लेशः.noun.4224.तोदः')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('खेद.noun.2819')",
+                  "examples": [
+                    "खेदः अस्ति यदा भवतः कार्यं विलम्बेन जातम्।"
+                  ],
+                  "gloss": "किमपि उचितम् आवश्यकं प्रियं वा कार्यं यदा न भवति तदा  मनसि जातः शोकः।",
+                  "head_word": "खेद",
+                  "lemma_names": [
+                    "खेद",
+                    "दुःख"
+                  ],
+                  "lemmas": [
+                    "Lemma('खेद.noun.2819.खेद')",
+                    "Lemma('खेद.noun.2819.दुःख')"
+                  ],
+                  "pos": "noun"
+                }
+              ]
+            },
+            {
+              "root": "सुखा",
+              "category": [
+                "exocentric compound"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "मिश्रितं",
+          "deprel": "compound:coord",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "मिश्रितं",
+              "category": [
+                "unrecognized"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "भवति।",
+          "deprel": "obl:goal",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "भवत्२",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "भू१",
+              "category": [
+                "special infinitive form"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "भवत्१",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "भवत्२",
+              "category": [
+                "vocative"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "धर्मः",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "धर्म",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": [
+                {
+                  "synset": "Synset('नियमः.noun.35492')",
+                  "examples": [
+                    "संविद् इत्यपि एकः नियमः एव।"
+                  ],
+                  "gloss": "किमपि कार्यं कर्तुं निर्धारिताः निर्देशाः।",
+                  "head_word": "नियमः",
+                  "lemma_names": [
+                    "नियमः",
+                    "सिद्धान्तः",
+                    "ऋतम्",
+                    "धर्म",
+                    "नियमनम्"
+                  ],
+                  "lemmas": [
+                    "Lemma('नियमः.noun.35492.नियमः')",
+                    "Lemma('नियमः.noun.35492.सिद्धान्तः')",
+                    "Lemma('नियमः.noun.35492.ऋतम्')",
+                    "Lemma('नियमः.noun.35492.धर्म')",
+                    "Lemma('नियमः.noun.35492.नियमनम्')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('धर्म.noun.33119')",
+                  "examples": [
+                    "तेजस्विन्यः व्यक्तेः तथा च सूर्यस्य धर्मः प्राखर्यम् इति अस्ति ।"
+                  ],
+                  "gloss": "अलङ्कारशास्त्रे वर्तमानः सः गुणः वृत्तिः वा यः उपमाने उपमेये च समानरूपेण विद्यते अपि च यस्य आधारेण एकस्य उपमा अन्यस्मै दीयते ।",
+                  "head_word": "धर्म",
+                  "lemma_names": [
+                    "धर्म"
+                  ],
+                  "lemmas": [
+                    "Lemma('धर्म.noun.33119.धर्म')"
+                  ],
+                  "pos": "noun"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "आत्मनः",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "आत्मन्",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "प्रगतिपथः।",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "प्रगति",
+              "category": [
+                "initial part of compounds"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "पथ",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "पथिन्",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "प्रगति",
+              "category": [
+                "initial part of compounds"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "पथिन्",
+              "category": [
+                "exocentric compound"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "अर्थस्य",
+          "deprel": "compound:coord",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "अर्थ",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "साधनं",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "साधनं",
+              "category": [
+                "unrecognized"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "आवश्यकं,",
+          "deprel": "compound:coord",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": []
+        },
+        {
+          "text": "किंतु",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "किन्तु",
+              "category": [
+                "indeclinable forms such as adverbs, conjunctions, prepositions"
+              ],
+              "synset_data": [
+                {
+                  "synset": "Synset('अपि.adverb.28171')",
+                  "examples": [
+                    "ज्वरः सन् अपि सः वृथा एव इतस्ततः अटति।"
+                  ],
+                  "gloss": "एवम्भूतोऽपि।",
+                  "head_word": "अपि",
+                  "lemma_names": [
+                    "अपि",
+                    "अपि तु",
+                    "तथापि",
+                    "परम्",
+                    "तु",
+                    "किम्",
+                    "किन्तु",
+                    "च",
+                    "ननु",
+                    "वा",
+                    "अथ वा",
+                    "पुनः"
+                  ],
+                  "lemmas": [
+                    "Lemma('अपि.adverb.28171.अपि')",
+                    "Lemma('अपि.adverb.28171.अपि तु')",
+                    "Lemma('अपि.adverb.28171.तथापि')",
+                    "Lemma('अपि.adverb.28171.परम्')",
+                    "Lemma('अपि.adverb.28171.तु')",
+                    "Lemma('अपि.adverb.28171.किम्')",
+                    "Lemma('अपि.adverb.28171.किन्तु')",
+                    "Lemma('अपि.adverb.28171.च')",
+                    "Lemma('अपि.adverb.28171.ननु')",
+                    "Lemma('अपि.adverb.28171.वा')",
+                    "Lemma('अपि.adverb.28171.अथ वा')",
+                    "Lemma('अपि.adverb.28171.पुनः')"
+                  ],
+                  "pos": "adverb"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "अहंकारं",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "अहङ्कारं",
+              "category": [
+                "unrecognized"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "त्यजेत्।",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "त्यज्१",
+              "category": [
+                "special infinitive form"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "कामे",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "काम",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "काम",
+              "category": [
+                "vocative"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "च",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "च",
+              "category": [
+                "indeclinable forms such as adverbs, conjunctions, prepositions"
+              ],
+              "synset_data": [
+                {
+                  "synset": "Synset('अपि.adverb.28171')",
+                  "examples": [
+                    "ज्वरः सन् अपि सः वृथा एव इतस्ततः अटति।"
+                  ],
+                  "gloss": "एवम्भूतोऽपि।",
+                  "head_word": "अपि",
+                  "lemma_names": [
+                    "अपि",
+                    "अपि तु",
+                    "तथापि",
+                    "परम्",
+                    "तु",
+                    "किम्",
+                    "किन्तु",
+                    "च",
+                    "ननु",
+                    "वा",
+                    "अथ वा",
+                    "पुनः"
+                  ],
+                  "lemmas": [
+                    "Lemma('अपि.adverb.28171.अपि')",
+                    "Lemma('अपि.adverb.28171.अपि तु')",
+                    "Lemma('अपि.adverb.28171.तथापि')",
+                    "Lemma('अपि.adverb.28171.परम्')",
+                    "Lemma('अपि.adverb.28171.तु')",
+                    "Lemma('अपि.adverb.28171.किम्')",
+                    "Lemma('अपि.adverb.28171.किन्तु')",
+                    "Lemma('अपि.adverb.28171.च')",
+                    "Lemma('अपि.adverb.28171.ननु')",
+                    "Lemma('अपि.adverb.28171.वा')",
+                    "Lemma('अपि.adverb.28171.अथ वा')",
+                    "Lemma('अपि.adverb.28171.पुनः')"
+                  ],
+                  "pos": "adverb"
+                },
+                {
+                  "synset": "Synset('चेष्टालु.adjective.6358')",
+                  "examples": [
+                    "चेष्टालवः बालाः जनान् पीडयन्ति।"
+                  ],
+                  "gloss": "यः चेष्टां करोति।",
+                  "head_word": "चेष्टालु",
+                  "lemma_names": [
+                    "चेष्टालु",
+                    "शरारु",
+                    "पियारु",
+                    "काहल",
+                    "खादुक",
+                    "च",
+                    "धूर्त",
+                    "बन्धुर",
+                    "विष्व",
+                    "हत्रु",
+                    "हानुक",
+                    "शर्शरीक",
+                    "असद्ग्रह",
+                    "खल"
+                  ],
+                  "lemmas": [
+                    "Lemma('चेष्टालु.adjective.6358.चेष्टालु')",
+                    "Lemma('चेष्टालु.adjective.6358.शरारु')",
+                    "Lemma('चेष्टालु.adjective.6358.पियारु')",
+                    "Lemma('चेष्टालु.adjective.6358.काहल')",
+                    "Lemma('चेष्टालु.adjective.6358.खादुक')",
+                    "Lemma('चेष्टालु.adjective.6358.च')",
+                    "Lemma('चेष्टालु.adjective.6358.धूर्त')",
+                    "Lemma('चेष्टालु.adjective.6358.बन्धुर')",
+                    "Lemma('चेष्टालु.adjective.6358.विष्व')",
+                    "Lemma('चेष्टालु.adjective.6358.हत्रु')",
+                    "Lemma('चेष्टालु.adjective.6358.हानुक')",
+                    "Lemma('चेष्टालु.adjective.6358.शर्शरीक')",
+                    "Lemma('चेष्टालु.adjective.6358.असद्ग्रह')",
+                    "Lemma('चेष्टालु.adjective.6358.खल')"
+                  ],
+                  "pos": "adjective"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "संयमः",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "संयम",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "धर्मेण",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "धर्म",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": [
+                {
+                  "synset": "Synset('नियमः.noun.35492')",
+                  "examples": [
+                    "संविद् इत्यपि एकः नियमः एव।"
+                  ],
+                  "gloss": "किमपि कार्यं कर्तुं निर्धारिताः निर्देशाः।",
+                  "head_word": "नियमः",
+                  "lemma_names": [
+                    "नियमः",
+                    "सिद्धान्तः",
+                    "ऋतम्",
+                    "धर्म",
+                    "नियमनम्"
+                  ],
+                  "lemmas": [
+                    "Lemma('नियमः.noun.35492.नियमः')",
+                    "Lemma('नियमः.noun.35492.सिद्धान्तः')",
+                    "Lemma('नियमः.noun.35492.ऋतम्')",
+                    "Lemma('नियमः.noun.35492.धर्म')",
+                    "Lemma('नियमः.noun.35492.नियमनम्')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('धर्म.noun.33119')",
+                  "examples": [
+                    "तेजस्विन्यः व्यक्तेः तथा च सूर्यस्य धर्मः प्राखर्यम् इति अस्ति ।"
+                  ],
+                  "gloss": "अलङ्कारशास्त्रे वर्तमानः सः गुणः वृत्तिः वा यः उपमाने उपमेये च समानरूपेण विद्यते अपि च यस्य आधारेण एकस्य उपमा अन्यस्मै दीयते ।",
+                  "head_word": "धर्म",
+                  "lemma_names": [
+                    "धर्म"
+                  ],
+                  "lemmas": [
+                    "Lemma('धर्म.noun.33119.धर्म')"
+                  ],
+                  "pos": "noun"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "सह",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "सह२",
+              "category": [
+                "indeclinable forms such as adverbs, conjunctions, prepositions"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "सह्१",
+              "category": [
+                "special infinitive form"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "सह१",
+              "category": [
+                "vocative"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "योजनीयः।",
+          "deprel": "compound:coord",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "योजनीय",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "योजनीय",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "मोक्षाय",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "मोक्ष",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "साधना",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "साधन",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "अनिवार्या।",
+          "deprel": "compound:coord",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "अनिवार्य",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": [
+                {
+                  "synset": "Synset('ध्रुव.adjective.2548')",
+                  "examples": [
+                    "जातस्य ही मृत्युः ध्रुवः।"
+                  ],
+                  "gloss": "यद् निवारितुं न शक्यते।",
+                  "head_word": "ध्रुव",
+                  "lemma_names": [
+                    "ध्रुव",
+                    "अनिवार्य"
+                  ],
+                  "lemmas": [
+                    "Lemma('ध्रुव.adjective.2548.ध्रुव')",
+                    "Lemma('ध्रुव.adjective.2548.अनिवार्य')"
+                  ],
+                  "pos": "adjective"
+                },
+                {
+                  "synset": "Synset('अनिवार्य.adjective.2248')",
+                  "examples": [
+                    "पञ्चमप्रश्नः अनिवार्यः अस्ति।"
+                  ],
+                  "gloss": "अत्यन्तम् आवश्यकम्।",
+                  "head_word": "अनिवार्य",
+                  "lemma_names": [
+                    "अनिवार्य"
+                  ],
+                  "lemmas": [
+                    "Lemma('अनिवार्य.adjective.2248.अनिवार्य')"
+                  ],
+                  "pos": "adjective"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "सत्यं",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "सत्यं",
+              "category": [
+                "unrecognized"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "वद,",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": []
+        },
+        {
+          "text": "अहिंसा",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "अहिंसा",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": [
+                {
+                  "synset": "Synset('अहिंसा.noun.32478')",
+                  "examples": [
+                    "मनसा वचनेन कर्मणा वा कस्यापि प्राणिनः अपीडनं नाम अहिंसा।"
+                  ],
+                  "gloss": "योगशास्त्रे वर्णितेषु पञ्चयमेषु प्रथमः।",
+                  "head_word": "अहिंसा",
+                  "lemma_names": [
+                    "अहिंसा"
+                  ],
+                  "lemmas": [
+                    "Lemma('अहिंसा.noun.32478.अहिंसा')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('अहिंसा.noun.3275')",
+                  "examples": [
+                    "अहिंसा परमो धर्मः।"
+                  ],
+                  "gloss": "हिंसायाः अवसरे प्राप्ते अपि न कृता हिंसा।",
+                  "head_word": "अहिंसा",
+                  "lemma_names": [
+                    "अहिंसा"
+                  ],
+                  "lemmas": [
+                    "Lemma('अहिंसा.noun.3275.अहिंसा')"
+                  ],
+                  "pos": "noun"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "चर,",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": []
+        },
+        {
+          "text": "क्षमा",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "क्षमा",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": [
+                {
+                  "synset": "Synset('पृथिवी.noun.26480')",
+                  "examples": [
+                    "पृथिवी पञ्चमम् भूतम्"
+                  ],
+                  "gloss": "मर्त्याद्यधिष्ठानभूता।",
+                  "head_word": "पृथिवी",
+                  "lemma_names": [
+                    "पृथिवी",
+                    "भूः",
+                    "भूमिः",
+                    "अचला",
+                    "अनन्ता",
+                    "रसा",
+                    "विश्वम्भरा",
+                    "स्थिरा",
+                    "धरा",
+                    "धरित्री",
+                    "धरणी",
+                    "क्षौणी",
+                    "ज्या",
+                    "काश्यपी",
+                    "क्षितिः",
+                    "सर्वसहा",
+                    "वसुमती",
+                    "वसुधा",
+                    "उर्वी",
+                    "वसुन्धरा",
+                    "गोत्रा",
+                    "कुः",
+                    "पृथ्वी",
+                    "क्ष्मा",
+                    "अवनिः",
+                    "मेदिनी",
+                    "मही",
+                    "धरणी",
+                    "क्षोणिः",
+                    "क्षौणिः",
+                    "क्षमा",
+                    "अवनी",
+                    "महिः",
+                    "रत्नगर्भा",
+                    "सागराम्बरा",
+                    "अब्धिमेखला",
+                    "भूतधात्री",
+                    "रत्नावती",
+                    "देहिनी",
+                    "पारा",
+                    "विपुला",
+                    "मध्यमलोकवर्त्मा",
+                    "धारणी",
+                    "गन्धवती",
+                    "महाकान्ता",
+                    "खण्डनी",
+                    "गिरिकर्णिका",
+                    "धारयित्री",
+                    "धात्री",
+                    "अचलकीला",
+                    "गौः",
+                    "अब्धिद्वीपा",
+                    "इडा",
+                    "इडिका",
+                    "इला",
+                    "इलिका",
+                    "इरा",
+                    "आदिमा",
+                    "ईला",
+                    "वरा",
+                    "आद्या",
+                    "जगती",
+                    "पृथुः",
+                    "भुवनमाता",
+                    "निश्चला",
+                    "श्यामा"
+                  ],
+                  "lemmas": [
+                    "Lemma('पृथिवी.noun.26480.पृथिवी')",
+                    "Lemma('पृथिवी.noun.26480.भूः')",
+                    "Lemma('पृथिवी.noun.26480.भूमिः')",
+                    "Lemma('पृथिवी.noun.26480.अचला')",
+                    "Lemma('पृथिवी.noun.26480.अनन्ता')",
+                    "Lemma('पृथिवी.noun.26480.रसा')",
+                    "Lemma('पृथिवी.noun.26480.विश्वम्भरा')",
+                    "Lemma('पृथिवी.noun.26480.स्थिरा')",
+                    "Lemma('पृथिवी.noun.26480.धरा')",
+                    "Lemma('पृथिवी.noun.26480.धरित्री')",
+                    "Lemma('पृथिवी.noun.26480.धरणी')",
+                    "Lemma('पृथिवी.noun.26480.क्षौणी')",
+                    "Lemma('पृथिवी.noun.26480.ज्या')",
+                    "Lemma('पृथिवी.noun.26480.काश्यपी')",
+                    "Lemma('पृथिवी.noun.26480.क्षितिः')",
+                    "Lemma('पृथिवी.noun.26480.सर्वसहा')",
+                    "Lemma('पृथिवी.noun.26480.वसुमती')",
+                    "Lemma('पृथिवी.noun.26480.वसुधा')",
+                    "Lemma('पृथिवी.noun.26480.उर्वी')",
+                    "Lemma('पृथिवी.noun.26480.वसुन्धरा')",
+                    "Lemma('पृथिवी.noun.26480.गोत्रा')",
+                    "Lemma('पृथिवी.noun.26480.कुः')",
+                    "Lemma('पृथिवी.noun.26480.पृथ्वी')",
+                    "Lemma('पृथिवी.noun.26480.क्ष्मा')",
+                    "Lemma('पृथिवी.noun.26480.अवनिः')",
+                    "Lemma('पृथिवी.noun.26480.मेदिनी')",
+                    "Lemma('पृथिवी.noun.26480.मही')",
+                    "Lemma('पृथिवी.noun.26480.धरणी')",
+                    "Lemma('पृथिवी.noun.26480.क्षोणिः')",
+                    "Lemma('पृथिवी.noun.26480.क्षौणिः')",
+                    "Lemma('पृथिवी.noun.26480.क्षमा')",
+                    "Lemma('पृथिवी.noun.26480.अवनी')",
+                    "Lemma('पृथिवी.noun.26480.महिः')",
+                    "Lemma('पृथिवी.noun.26480.रत्नगर्भा')",
+                    "Lemma('पृथिवी.noun.26480.सागराम्बरा')",
+                    "Lemma('पृथिवी.noun.26480.अब्धिमेखला')",
+                    "Lemma('पृथिवी.noun.26480.भूतधात्री')",
+                    "Lemma('पृथिवी.noun.26480.रत्नावती')",
+                    "Lemma('पृथिवी.noun.26480.देहिनी')",
+                    "Lemma('पृथिवी.noun.26480.पारा')",
+                    "Lemma('पृथिवी.noun.26480.विपुला')",
+                    "Lemma('पृथिवी.noun.26480.मध्यमलोकवर्त्मा')",
+                    "Lemma('पृथिवी.noun.26480.धारणी')",
+                    "Lemma('पृथिवी.noun.26480.गन्धवती')",
+                    "Lemma('पृथिवी.noun.26480.महाकान्ता')",
+                    "Lemma('पृथिवी.noun.26480.खण्डनी')",
+                    "Lemma('पृथिवी.noun.26480.गिरिकर्णिका')",
+                    "Lemma('पृथिवी.noun.26480.धारयित्री')",
+                    "Lemma('पृथिवी.noun.26480.धात्री')",
+                    "Lemma('पृथिवी.noun.26480.अचलकीला')",
+                    "Lemma('पृथिवी.noun.26480.गौः')",
+                    "Lemma('पृथिवी.noun.26480.अब्धिद्वीपा')",
+                    "Lemma('पृथिवी.noun.26480.इडा')",
+                    "Lemma('पृथिवी.noun.26480.इडिका')",
+                    "Lemma('पृथिवी.noun.26480.इला')",
+                    "Lemma('पृथिवी.noun.26480.इलिका')",
+                    "Lemma('पृथिवी.noun.26480.इरा')",
+                    "Lemma('पृथिवी.noun.26480.आदिमा')",
+                    "Lemma('पृथिवी.noun.26480.ईला')",
+                    "Lemma('पृथिवी.noun.26480.वरा')",
+                    "Lemma('पृथिवी.noun.26480.आद्या')",
+                    "Lemma('पृथिवी.noun.26480.जगती')",
+                    "Lemma('पृथिवी.noun.26480.पृथुः')",
+                    "Lemma('पृथिवी.noun.26480.भुवनमाता')",
+                    "Lemma('पृथिवी.noun.26480.निश्चला')",
+                    "Lemma('पृथिवी.noun.26480.श्यामा')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('वेत्रवती.noun.14496')",
+                  "examples": [
+                    "वेत्रवती यमुनायां विलीयते।"
+                  ],
+                  "gloss": "बुन्देलखण्डे वर्तमाना एका नदी।",
+                  "head_word": "वेत्रवती",
+                  "lemma_names": [
+                    "वेत्रवती",
+                    "क्षमा"
+                  ],
+                  "lemmas": [
+                    "Lemma('वेत्रवती.noun.14496.वेत्रवती')",
+                    "Lemma('वेत्रवती.noun.14496.क्षमा')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('खदिरः.noun.10950')",
+                  "examples": [
+                    "खदिरात् अर्कः निष्कासयन्ति।"
+                  ],
+                  "gloss": "वर्वूरजातीयः वृक्षः।",
+                  "head_word": "खदिरः",
+                  "lemma_names": [
+                    "खदिरः",
+                    "गायत्री",
+                    "बालतनयः",
+                    "दन्तधावनः",
+                    "तिक्तसारः",
+                    "कण्टकीद्रुमः",
+                    "बालपत्रः",
+                    "खद्यपत्री",
+                    "क्षितिक्षमः",
+                    "सुशल्यः",
+                    "वक्रकण्टः",
+                    "यज्ञाङ्गः",
+                    "जिह्वाशल्यः",
+                    "कण्टी",
+                    "सारद्रुमः",
+                    "कुष्ठारिः",
+                    "बहुसारः",
+                    "मेध्यः",
+                    "बालपुत्रः",
+                    "रक्तसारः",
+                    "कर्कटी",
+                    "जिह्वशल्यः",
+                    "कुष्ठहृत्",
+                    "बालपत्रकम्",
+                    "यूपद्रुमः",
+                    "क्षमा"
+                  ],
+                  "lemmas": [
+                    "Lemma('खदिरः.noun.10950.खदिरः')",
+                    "Lemma('खदिरः.noun.10950.गायत्री')",
+                    "Lemma('खदिरः.noun.10950.बालतनयः')",
+                    "Lemma('खदिरः.noun.10950.दन्तधावनः')",
+                    "Lemma('खदिरः.noun.10950.तिक्तसारः')",
+                    "Lemma('खदिरः.noun.10950.कण्टकीद्रुमः')",
+                    "Lemma('खदिरः.noun.10950.बालपत्रः')",
+                    "Lemma('खदिरः.noun.10950.खद्यपत्री')",
+                    "Lemma('खदिरः.noun.10950.क्षितिक्षमः')",
+                    "Lemma('खदिरः.noun.10950.सुशल्यः')",
+                    "Lemma('खदिरः.noun.10950.वक्रकण्टः')",
+                    "Lemma('खदिरः.noun.10950.यज्ञाङ्गः')",
+                    "Lemma('खदिरः.noun.10950.जिह्वाशल्यः')",
+                    "Lemma('खदिरः.noun.10950.कण्टी')",
+                    "Lemma('खदिरः.noun.10950.सारद्रुमः')",
+                    "Lemma('खदिरः.noun.10950.कुष्ठारिः')",
+                    "Lemma('खदिरः.noun.10950.बहुसारः')",
+                    "Lemma('खदिरः.noun.10950.मेध्यः')",
+                    "Lemma('खदिरः.noun.10950.बालपुत्रः')",
+                    "Lemma('खदिरः.noun.10950.रक्तसारः')",
+                    "Lemma('खदिरः.noun.10950.कर्कटी')",
+                    "Lemma('खदिरः.noun.10950.जिह्वशल्यः')",
+                    "Lemma('खदिरः.noun.10950.कुष्ठहृत्')",
+                    "Lemma('खदिरः.noun.10950.बालपत्रकम्')",
+                    "Lemma('खदिरः.noun.10950.यूपद्रुमः')",
+                    "Lemma('खदिरः.noun.10950.क्षमा')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('दुर्गा.noun.4404')",
+                  "examples": [
+                    "नवरात्रोत्सवे स्थाने स्थाने दुर्गायाः प्रतिष्ठापना क्रियते।"
+                  ],
+                  "gloss": "सा देवी यया नैके दैत्याः हताः तथा च या आदिशक्तिः अस्ति इति मन्यते।",
+                  "head_word": "दुर्गा",
+                  "lemma_names": [
+                    "दुर्गा",
+                    "उमा",
+                    "कात्यायनी",
+                    "गौरी",
+                    "ब्रह्माणी",
+                    "काली",
+                    "हैमवती",
+                    "ईश्वरा",
+                    "शिवा",
+                    "भवानी",
+                    "रुद्राणी",
+                    "सर्वाणी",
+                    "सर्वमङ्गला",
+                    "अपर्णा",
+                    "पार्वती",
+                    "मृडानी",
+                    "लीलावती",
+                    "चणडिका",
+                    "अम्बिका",
+                    "शारदा",
+                    "चण्डी",
+                    "चण्डा",
+                    "चण्डनायिका",
+                    "गिरिजा",
+                    "मङ्गला",
+                    "नारायणी",
+                    "महामाया",
+                    "वैष्णवी",
+                    "महेश्वरी",
+                    "कोट्टवी",
+                    "षष्ठी",
+                    "माधवी",
+                    "नगनन्दिनी",
+                    "जयन्ती",
+                    "भार्गवी",
+                    "रम्भा",
+                    "सिंहरथा",
+                    "सती",
+                    "भ्रामरी",
+                    "दक्षकन्या",
+                    "महिषमर्दिनी",
+                    "हेरम्बजननी",
+                    "सावित्री",
+                    "कृष्णपिङ्गला",
+                    "वृषाकपायी",
+                    "लम्बा",
+                    "हिमशैलजा",
+                    "कार्त्तिकेयप्रसूः",
+                    "आद्या",
+                    "नित्या",
+                    "विद्या",
+                    "शुभह्करी",
+                    "सात्त्विकी",
+                    "राजसी",
+                    "तामसी",
+                    "भीमा",
+                    "नन्दनन्दिनी",
+                    "महामायी",
+                    "शूलधरा",
+                    "सुनन्दा",
+                    "शुम्यभघातिनी",
+                    "ह्री",
+                    "पर्वतराजतनया",
+                    "हिमालयसुता",
+                    "महेश्वरवनिता",
+                    "सत्या",
+                    "भगवती",
+                    "ईशाना",
+                    "सनातनी",
+                    "महाकाली",
+                    "शिवानी",
+                    "हरवल्लभा",
+                    "उग्रचण्डा",
+                    "चामुण्डा",
+                    "विधात्री",
+                    "आनन्दा",
+                    "महामात्रा",
+                    "महामुद्रा",
+                    "माकरी",
+                    "भौमी",
+                    "कल्याणी",
+                    "कृष्णा",
+                    "मानदात्री",
+                    "मदालसा",
+                    "मानिनी",
+                    "चार्वङ्गी",
+                    "वाणी",
+                    "ईशा",
+                    "वलेशी",
+                    "भ्रमरी",
+                    "भूष्या",
+                    "फाल्गुनी",
+                    "यती",
+                    "ब्रह्ममयी",
+                    "भाविनी",
+                    "देवी",
+                    "अचिन्ता",
+                    "त्रिनेत्रा",
+                    "त्रिशूला",
+                    "चर्चिका",
+                    "तीव्रा",
+                    "नन्दिनी",
+                    "नन्दा",
+                    "धरित्रिणी",
+                    "मातृका",
+                    "चिदानन्दस्वरूपिणी",
+                    "मनस्विनी",
+                    "महादेवी",
+                    "निद्रारूपा",
+                    "भवानिका",
+                    "तारा",
+                    "नीलसरस्वती",
+                    "कालिका",
+                    "उग्रतारा",
+                    "कामेश्वरी",
+                    "सुन्दरी",
+                    "भैरवी",
+                    "राजराजेश्वरी",
+                    "भुवनेशी",
+                    "त्वरिता",
+                    "महालक्ष्मी",
+                    "राजीवलोचनी",
+                    "धनदा",
+                    "वागीश्वरी",
+                    "त्रिपुरा",
+                    "ज्वाल्मुखी",
+                    "वगलामुखी",
+                    "सिद्धविद्या",
+                    "अन्नपूर्णा",
+                    "विशालाक्षी",
+                    "सुभगा",
+                    "सगुणा",
+                    "निर्गुणा",
+                    "धवला",
+                    "गीतिः",
+                    "गीतवाद्यप्रिया",
+                    "अट्टालवासिनी",
+                    "अट्टहासिनी",
+                    "घोरा",
+                    "प्रेमा",
+                    "वटेश्वरी",
+                    "कीर्तिदा",
+                    "बुद्धिदा",
+                    "अवीरा",
+                    "पण्डितालयवासिनी",
+                    "मण्डिता",
+                    "संवत्सरा",
+                    "कृष्णरूपा",
+                    "बलिप्रिया",
+                    "तुमुला",
+                    "कामिनी",
+                    "कामरूपा",
+                    "पुण्यदा",
+                    "विष्णुचक्रधरा",
+                    "पञ्चमा",
+                    "वृन्दावनस्वरूपिणी",
+                    "अयोध्यारुपिणी",
+                    "मायावती",
+                    "जीमूतवसना",
+                    "जगन्नाथस्वरूपिणी",
+                    "कृत्तिवसना",
+                    "त्रियामा",
+                    "जमलार्जुनी",
+                    "यामिनी",
+                    "यशोदा",
+                    "यादवी",
+                    "जगती",
+                    "कृष्णजाया",
+                    "सत्यभामा",
+                    "सुभद्रिका",
+                    "लक्ष्मणा",
+                    "दिगम्बरी",
+                    "पृथुका",
+                    "तीक्ष्णा",
+                    "आचारा",
+                    "अक्रूरा",
+                    "जाह्नवी",
+                    "गण्डकी",
+                    "ध्येया",
+                    "जृम्भणी",
+                    "मोहिनी",
+                    "विकारा",
+                    "अक्षरवासिनी",
+                    "अंशका",
+                    "पत्रिका",
+                    "पवित्रिका",
+                    "तुलसी",
+                    "अतुला",
+                    "जानकी",
+                    "वन्द्या",
+                    "कामना",
+                    "नारसिंही",
+                    "गिरीशा",
+                    "साध्वी",
+                    "कल्याणी",
+                    "कमला",
+                    "कान्ता",
+                    "शान्ता",
+                    "कुला",
+                    "वेदमाता",
+                    "कर्मदा",
+                    "सन्ध्या",
+                    "त्रिपुरसुन्दरी",
+                    "रासेशी",
+                    "दक्षयज्ञविनाशिनी",
+                    "अनन्ता",
+                    "धर्मेश्वरी",
+                    "चक्रेश्वरी",
+                    "खञ्जना",
+                    "विदग्धा",
+                    "कुञ्जिका",
+                    "चित्रा",
+                    "सुलेखा",
+                    "चतुर्भुजा",
+                    "राका",
+                    "प्रज्ञा",
+                    "ऋद्भिदा",
+                    "तापिनी",
+                    "तपा",
+                    "सुमन्त्रा",
+                    "दूती",
+                    "अशनी",
+                    "कराला",
+                    "कालकी",
+                    "कुष्माण्डी",
+                    "कैटभा",
+                    "कैटभी",
+                    "क्षत्रिया",
+                    "क्षमा",
+                    "क्षेमा",
+                    "चण्डालिका",
+                    "जयन्ती",
+                    "भेरुण्डा"
+                  ],
+                  "lemmas": [
+                    "Lemma('दुर्गा.noun.4404.दुर्गा')",
+                    "Lemma('दुर्गा.noun.4404.उमा')",
+                    "Lemma('दुर्गा.noun.4404.कात्यायनी')",
+                    "Lemma('दुर्गा.noun.4404.गौरी')",
+                    "Lemma('दुर्गा.noun.4404.ब्रह्माणी')",
+                    "Lemma('दुर्गा.noun.4404.काली')",
+                    "Lemma('दुर्गा.noun.4404.हैमवती')",
+                    "Lemma('दुर्गा.noun.4404.ईश्वरा')",
+                    "Lemma('दुर्गा.noun.4404.शिवा')",
+                    "Lemma('दुर्गा.noun.4404.भवानी')",
+                    "Lemma('दुर्गा.noun.4404.रुद्राणी')",
+                    "Lemma('दुर्गा.noun.4404.सर्वाणी')",
+                    "Lemma('दुर्गा.noun.4404.सर्वमङ्गला')",
+                    "Lemma('दुर्गा.noun.4404.अपर्णा')",
+                    "Lemma('दुर्गा.noun.4404.पार्वती')",
+                    "Lemma('दुर्गा.noun.4404.मृडानी')",
+                    "Lemma('दुर्गा.noun.4404.लीलावती')",
+                    "Lemma('दुर्गा.noun.4404.चणडिका')",
+                    "Lemma('दुर्गा.noun.4404.अम्बिका')",
+                    "Lemma('दुर्गा.noun.4404.शारदा')",
+                    "Lemma('दुर्गा.noun.4404.चण्डी')",
+                    "Lemma('दुर्गा.noun.4404.चण्डा')",
+                    "Lemma('दुर्गा.noun.4404.चण्डनायिका')",
+                    "Lemma('दुर्गा.noun.4404.गिरिजा')",
+                    "Lemma('दुर्गा.noun.4404.मङ्गला')",
+                    "Lemma('दुर्गा.noun.4404.नारायणी')",
+                    "Lemma('दुर्गा.noun.4404.महामाया')",
+                    "Lemma('दुर्गा.noun.4404.वैष्णवी')",
+                    "Lemma('दुर्गा.noun.4404.महेश्वरी')",
+                    "Lemma('दुर्गा.noun.4404.कोट्टवी')",
+                    "Lemma('दुर्गा.noun.4404.षष्ठी')",
+                    "Lemma('दुर्गा.noun.4404.माधवी')",
+                    "Lemma('दुर्गा.noun.4404.नगनन्दिनी')",
+                    "Lemma('दुर्गा.noun.4404.जयन्ती')",
+                    "Lemma('दुर्गा.noun.4404.भार्गवी')",
+                    "Lemma('दुर्गा.noun.4404.रम्भा')",
+                    "Lemma('दुर्गा.noun.4404.सिंहरथा')",
+                    "Lemma('दुर्गा.noun.4404.सती')",
+                    "Lemma('दुर्गा.noun.4404.भ्रामरी')",
+                    "Lemma('दुर्गा.noun.4404.दक्षकन्या')",
+                    "Lemma('दुर्गा.noun.4404.महिषमर्दिनी')",
+                    "Lemma('दुर्गा.noun.4404.हेरम्बजननी')",
+                    "Lemma('दुर्गा.noun.4404.सावित्री')",
+                    "Lemma('दुर्गा.noun.4404.कृष्णपिङ्गला')",
+                    "Lemma('दुर्गा.noun.4404.वृषाकपायी')",
+                    "Lemma('दुर्गा.noun.4404.लम्बा')",
+                    "Lemma('दुर्गा.noun.4404.हिमशैलजा')",
+                    "Lemma('दुर्गा.noun.4404.कार्त्तिकेयप्रसूः')",
+                    "Lemma('दुर्गा.noun.4404.आद्या')",
+                    "Lemma('दुर्गा.noun.4404.नित्या')",
+                    "Lemma('दुर्गा.noun.4404.विद्या')",
+                    "Lemma('दुर्गा.noun.4404.शुभह्करी')",
+                    "Lemma('दुर्गा.noun.4404.सात्त्विकी')",
+                    "Lemma('दुर्गा.noun.4404.राजसी')",
+                    "Lemma('दुर्गा.noun.4404.तामसी')",
+                    "Lemma('दुर्गा.noun.4404.भीमा')",
+                    "Lemma('दुर्गा.noun.4404.नन्दनन्दिनी')",
+                    "Lemma('दुर्गा.noun.4404.महामायी')",
+                    "Lemma('दुर्गा.noun.4404.शूलधरा')",
+                    "Lemma('दुर्गा.noun.4404.सुनन्दा')",
+                    "Lemma('दुर्गा.noun.4404.शुम्यभघातिनी')",
+                    "Lemma('दुर्गा.noun.4404.ह्री')",
+                    "Lemma('दुर्गा.noun.4404.पर्वतराजतनया')",
+                    "Lemma('दुर्गा.noun.4404.हिमालयसुता')",
+                    "Lemma('दुर्गा.noun.4404.महेश्वरवनिता')",
+                    "Lemma('दुर्गा.noun.4404.सत्या')",
+                    "Lemma('दुर्गा.noun.4404.भगवती')",
+                    "Lemma('दुर्गा.noun.4404.ईशाना')",
+                    "Lemma('दुर्गा.noun.4404.सनातनी')",
+                    "Lemma('दुर्गा.noun.4404.महाकाली')",
+                    "Lemma('दुर्गा.noun.4404.शिवानी')",
+                    "Lemma('दुर्गा.noun.4404.हरवल्लभा')",
+                    "Lemma('दुर्गा.noun.4404.उग्रचण्डा')",
+                    "Lemma('दुर्गा.noun.4404.चामुण्डा')",
+                    "Lemma('दुर्गा.noun.4404.विधात्री')",
+                    "Lemma('दुर्गा.noun.4404.आनन्दा')",
+                    "Lemma('दुर्गा.noun.4404.महामात्रा')",
+                    "Lemma('दुर्गा.noun.4404.महामुद्रा')",
+                    "Lemma('दुर्गा.noun.4404.माकरी')",
+                    "Lemma('दुर्गा.noun.4404.भौमी')",
+                    "Lemma('दुर्गा.noun.4404.कल्याणी')",
+                    "Lemma('दुर्गा.noun.4404.कृष्णा')",
+                    "Lemma('दुर्गा.noun.4404.मानदात्री')",
+                    "Lemma('दुर्गा.noun.4404.मदालसा')",
+                    "Lemma('दुर्गा.noun.4404.मानिनी')",
+                    "Lemma('दुर्गा.noun.4404.चार्वङ्गी')",
+                    "Lemma('दुर्गा.noun.4404.वाणी')",
+                    "Lemma('दुर्गा.noun.4404.ईशा')",
+                    "Lemma('दुर्गा.noun.4404.वलेशी')",
+                    "Lemma('दुर्गा.noun.4404.भ्रमरी')",
+                    "Lemma('दुर्गा.noun.4404.भूष्या')",
+                    "Lemma('दुर्गा.noun.4404.फाल्गुनी')",
+                    "Lemma('दुर्गा.noun.4404.यती')",
+                    "Lemma('दुर्गा.noun.4404.ब्रह्ममयी')",
+                    "Lemma('दुर्गा.noun.4404.भाविनी')",
+                    "Lemma('दुर्गा.noun.4404.देवी')",
+                    "Lemma('दुर्गा.noun.4404.अचिन्ता')",
+                    "Lemma('दुर्गा.noun.4404.त्रिनेत्रा')",
+                    "Lemma('दुर्गा.noun.4404.त्रिशूला')",
+                    "Lemma('दुर्गा.noun.4404.चर्चिका')",
+                    "Lemma('दुर्गा.noun.4404.तीव्रा')",
+                    "Lemma('दुर्गा.noun.4404.नन्दिनी')",
+                    "Lemma('दुर्गा.noun.4404.नन्दा')",
+                    "Lemma('दुर्गा.noun.4404.धरित्रिणी')",
+                    "Lemma('दुर्गा.noun.4404.मातृका')",
+                    "Lemma('दुर्गा.noun.4404.चिदानन्दस्वरूपिणी')",
+                    "Lemma('दुर्गा.noun.4404.मनस्विनी')",
+                    "Lemma('दुर्गा.noun.4404.महादेवी')",
+                    "Lemma('दुर्गा.noun.4404.निद्रारूपा')",
+                    "Lemma('दुर्गा.noun.4404.भवानिका')",
+                    "Lemma('दुर्गा.noun.4404.तारा')",
+                    "Lemma('दुर्गा.noun.4404.नीलसरस्वती')",
+                    "Lemma('दुर्गा.noun.4404.कालिका')",
+                    "Lemma('दुर्गा.noun.4404.उग्रतारा')",
+                    "Lemma('दुर्गा.noun.4404.कामेश्वरी')",
+                    "Lemma('दुर्गा.noun.4404.सुन्दरी')",
+                    "Lemma('दुर्गा.noun.4404.भैरवी')",
+                    "Lemma('दुर्गा.noun.4404.राजराजेश्वरी')",
+                    "Lemma('दुर्गा.noun.4404.भुवनेशी')",
+                    "Lemma('दुर्गा.noun.4404.त्वरिता')",
+                    "Lemma('दुर्गा.noun.4404.महालक्ष्मी')",
+                    "Lemma('दुर्गा.noun.4404.राजीवलोचनी')",
+                    "Lemma('दुर्गा.noun.4404.धनदा')",
+                    "Lemma('दुर्गा.noun.4404.वागीश्वरी')",
+                    "Lemma('दुर्गा.noun.4404.त्रिपुरा')",
+                    "Lemma('दुर्गा.noun.4404.ज्वाल्मुखी')",
+                    "Lemma('दुर्गा.noun.4404.वगलामुखी')",
+                    "Lemma('दुर्गा.noun.4404.सिद्धविद्या')",
+                    "Lemma('दुर्गा.noun.4404.अन्नपूर्णा')",
+                    "Lemma('दुर्गा.noun.4404.विशालाक्षी')",
+                    "Lemma('दुर्गा.noun.4404.सुभगा')",
+                    "Lemma('दुर्गा.noun.4404.सगुणा')",
+                    "Lemma('दुर्गा.noun.4404.निर्गुणा')",
+                    "Lemma('दुर्गा.noun.4404.धवला')",
+                    "Lemma('दुर्गा.noun.4404.गीतिः')",
+                    "Lemma('दुर्गा.noun.4404.गीतवाद्यप्रिया')",
+                    "Lemma('दुर्गा.noun.4404.अट्टालवासिनी')",
+                    "Lemma('दुर्गा.noun.4404.अट्टहासिनी')",
+                    "Lemma('दुर्गा.noun.4404.घोरा')",
+                    "Lemma('दुर्गा.noun.4404.प्रेमा')",
+                    "Lemma('दुर्गा.noun.4404.वटेश्वरी')",
+                    "Lemma('दुर्गा.noun.4404.कीर्तिदा')",
+                    "Lemma('दुर्गा.noun.4404.बुद्धिदा')",
+                    "Lemma('दुर्गा.noun.4404.अवीरा')",
+                    "Lemma('दुर्गा.noun.4404.पण्डितालयवासिनी')",
+                    "Lemma('दुर्गा.noun.4404.मण्डिता')",
+                    "Lemma('दुर्गा.noun.4404.संवत्सरा')",
+                    "Lemma('दुर्गा.noun.4404.कृष्णरूपा')",
+                    "Lemma('दुर्गा.noun.4404.बलिप्रिया')",
+                    "Lemma('दुर्गा.noun.4404.तुमुला')",
+                    "Lemma('दुर्गा.noun.4404.कामिनी')",
+                    "Lemma('दुर्गा.noun.4404.कामरूपा')",
+                    "Lemma('दुर्गा.noun.4404.पुण्यदा')",
+                    "Lemma('दुर्गा.noun.4404.विष्णुचक्रधरा')",
+                    "Lemma('दुर्गा.noun.4404.पञ्चमा')",
+                    "Lemma('दुर्गा.noun.4404.वृन्दावनस्वरूपिणी')",
+                    "Lemma('दुर्गा.noun.4404.अयोध्यारुपिणी')",
+                    "Lemma('दुर्गा.noun.4404.मायावती')",
+                    "Lemma('दुर्गा.noun.4404.जीमूतवसना')",
+                    "Lemma('दुर्गा.noun.4404.जगन्नाथस्वरूपिणी')",
+                    "Lemma('दुर्गा.noun.4404.कृत्तिवसना')",
+                    "Lemma('दुर्गा.noun.4404.त्रियामा')",
+                    "Lemma('दुर्गा.noun.4404.जमलार्जुनी')",
+                    "Lemma('दुर्गा.noun.4404.यामिनी')",
+                    "Lemma('दुर्गा.noun.4404.यशोदा')",
+                    "Lemma('दुर्गा.noun.4404.यादवी')",
+                    "Lemma('दुर्गा.noun.4404.जगती')",
+                    "Lemma('दुर्गा.noun.4404.कृष्णजाया')",
+                    "Lemma('दुर्गा.noun.4404.सत्यभामा')",
+                    "Lemma('दुर्गा.noun.4404.सुभद्रिका')",
+                    "Lemma('दुर्गा.noun.4404.लक्ष्मणा')",
+                    "Lemma('दुर्गा.noun.4404.दिगम्बरी')",
+                    "Lemma('दुर्गा.noun.4404.पृथुका')",
+                    "Lemma('दुर्गा.noun.4404.तीक्ष्णा')",
+                    "Lemma('दुर्गा.noun.4404.आचारा')",
+                    "Lemma('दुर्गा.noun.4404.अक्रूरा')",
+                    "Lemma('दुर्गा.noun.4404.जाह्नवी')",
+                    "Lemma('दुर्गा.noun.4404.गण्डकी')",
+                    "Lemma('दुर्गा.noun.4404.ध्येया')",
+                    "Lemma('दुर्गा.noun.4404.जृम्भणी')",
+                    "Lemma('दुर्गा.noun.4404.मोहिनी')",
+                    "Lemma('दुर्गा.noun.4404.विकारा')",
+                    "Lemma('दुर्गा.noun.4404.अक्षरवासिनी')",
+                    "Lemma('दुर्गा.noun.4404.अंशका')",
+                    "Lemma('दुर्गा.noun.4404.पत्रिका')",
+                    "Lemma('दुर्गा.noun.4404.पवित्रिका')",
+                    "Lemma('दुर्गा.noun.4404.तुलसी')",
+                    "Lemma('दुर्गा.noun.4404.अतुला')",
+                    "Lemma('दुर्गा.noun.4404.जानकी')",
+                    "Lemma('दुर्गा.noun.4404.वन्द्या')",
+                    "Lemma('दुर्गा.noun.4404.कामना')",
+                    "Lemma('दुर्गा.noun.4404.नारसिंही')",
+                    "Lemma('दुर्गा.noun.4404.गिरीशा')",
+                    "Lemma('दुर्गा.noun.4404.साध्वी')",
+                    "Lemma('दुर्गा.noun.4404.कल्याणी')",
+                    "Lemma('दुर्गा.noun.4404.कमला')",
+                    "Lemma('दुर्गा.noun.4404.कान्ता')",
+                    "Lemma('दुर्गा.noun.4404.शान्ता')",
+                    "Lemma('दुर्गा.noun.4404.कुला')",
+                    "Lemma('दुर्गा.noun.4404.वेदमाता')",
+                    "Lemma('दुर्गा.noun.4404.कर्मदा')",
+                    "Lemma('दुर्गा.noun.4404.सन्ध्या')",
+                    "Lemma('दुर्गा.noun.4404.त्रिपुरसुन्दरी')",
+                    "Lemma('दुर्गा.noun.4404.रासेशी')",
+                    "Lemma('दुर्गा.noun.4404.दक्षयज्ञविनाशिनी')",
+                    "Lemma('दुर्गा.noun.4404.अनन्ता')",
+                    "Lemma('दुर्गा.noun.4404.धर्मेश्वरी')",
+                    "Lemma('दुर्गा.noun.4404.चक्रेश्वरी')",
+                    "Lemma('दुर्गा.noun.4404.खञ्जना')",
+                    "Lemma('दुर्गा.noun.4404.विदग्धा')",
+                    "Lemma('दुर्गा.noun.4404.कुञ्जिका')",
+                    "Lemma('दुर्गा.noun.4404.चित्रा')",
+                    "Lemma('दुर्गा.noun.4404.सुलेखा')",
+                    "Lemma('दुर्गा.noun.4404.चतुर्भुजा')",
+                    "Lemma('दुर्गा.noun.4404.राका')",
+                    "Lemma('दुर्गा.noun.4404.प्रज्ञा')",
+                    "Lemma('दुर्गा.noun.4404.ऋद्भिदा')",
+                    "Lemma('दुर्गा.noun.4404.तापिनी')",
+                    "Lemma('दुर्गा.noun.4404.तपा')",
+                    "Lemma('दुर्गा.noun.4404.सुमन्त्रा')",
+                    "Lemma('दुर्गा.noun.4404.दूती')",
+                    "Lemma('दुर्गा.noun.4404.अशनी')",
+                    "Lemma('दुर्गा.noun.4404.कराला')",
+                    "Lemma('दुर्गा.noun.4404.कालकी')",
+                    "Lemma('दुर्गा.noun.4404.कुष्माण्डी')",
+                    "Lemma('दुर्गा.noun.4404.कैटभा')",
+                    "Lemma('दुर्गा.noun.4404.कैटभी')",
+                    "Lemma('दुर्गा.noun.4404.क्षत्रिया')",
+                    "Lemma('दुर्गा.noun.4404.क्षमा')",
+                    "Lemma('दुर्गा.noun.4404.क्षेमा')",
+                    "Lemma('दुर्गा.noun.4404.चण्डालिका')",
+                    "Lemma('दुर्गा.noun.4404.जयन्ती')",
+                    "Lemma('दुर्गा.noun.4404.भेरुण्डा')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('क्षमा.noun.2942')",
+                  "examples": [
+                    "वीराणाम् आभूषणं क्षमा।"
+                  ],
+                  "gloss": "सः चित्तवृत्तिविशेषः यः अन्यैः जनैः दत्तां पीडां सहते तथा च तां प्रतिहर्तुं न इच्छति दण्डयितुं वा।",
+                  "head_word": "क्षमा",
+                  "lemma_names": [
+                    "क्षमा",
+                    "क्षान्तिः",
+                    "तितिक्षा"
+                  ],
+                  "lemmas": [
+                    "Lemma('क्षमा.noun.2942.क्षमा')",
+                    "Lemma('क्षमा.noun.2942.क्षान्तिः')",
+                    "Lemma('क्षमा.noun.2942.तितिक्षा')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('क्षमा.noun.137043')",
+                  "examples": [
+                    "क्षमा इति शाक्तमन्त्रस्य लेखिका अस्ति"
+                  ],
+                  "gloss": "एका लेखिका ।",
+                  "head_word": "क्षमा",
+                  "lemma_names": [
+                    "क्षमा"
+                  ],
+                  "lemmas": [
+                    "Lemma('क्षमा.noun.137043.क्षमा')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('क्षमा.noun.137042')",
+                  "examples": [
+                    "क्षमा इति अतिजगती इति छन्दसः जातिः अस्ति"
+                  ],
+                  "gloss": "एकं छन्दः ।",
+                  "head_word": "क्षमा",
+                  "lemma_names": [
+                    "क्षमा"
+                  ],
+                  "lemmas": [
+                    "Lemma('क्षमा.noun.137042.क्षमा')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('क्षमा.noun.39398')",
+                  "examples": [
+                    "यः दोषं करोति सः क्षमाम् अपेक्ष्यते ।"
+                  ],
+                  "gloss": "अन्येन कृतं दुराचरणं विस्मृत्य तेन सह सदाचारणस्य क्रिया ।",
+                  "head_word": "क्षमा",
+                  "lemma_names": [
+                    "क्षमा",
+                    "महोपेक्षा"
+                  ],
+                  "lemmas": [
+                    "Lemma('क्षमा.noun.39398.क्षमा')",
+                    "Lemma('क्षमा.noun.39398.महोपेक्षा')"
+                  ],
+                  "pos": "noun"
+                }
+              ]
+            },
+            {
+              "root": "क्षम",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": [
+                {
+                  "synset": "Synset('क्षम.adjective.30')",
+                  "examples": [
+                    "एतत् कार्यं कर्तुं क्षमस्य पुरुषस्य आवश्यकता वर्तते।"
+                  ],
+                  "gloss": "कार्यं संपन्नतां नेतुं योग्यः कार्ये योग्यार्हः वा।",
+                  "head_word": "क्षम",
+                  "lemma_names": [
+                    "क्षम",
+                    "समर्थ",
+                    "शक्त",
+                    "योग्य",
+                    "उपयुक्त",
+                    "उचित",
+                    "पात्र",
+                    "युज्य",
+                    "समर्थक",
+                    "सह",
+                    "सुशक्त",
+                    "कल्पुष"
+                  ],
+                  "lemmas": [
+                    "Lemma('क्षम.adjective.30.क्षम')",
+                    "Lemma('क्षम.adjective.30.समर्थ')",
+                    "Lemma('क्षम.adjective.30.शक्त')",
+                    "Lemma('क्षम.adjective.30.योग्य')",
+                    "Lemma('क्षम.adjective.30.उपयुक्त')",
+                    "Lemma('क्षम.adjective.30.उचित')",
+                    "Lemma('क्षम.adjective.30.पात्र')",
+                    "Lemma('क्षम.adjective.30.युज्य')",
+                    "Lemma('क्षम.adjective.30.समर्थक')",
+                    "Lemma('क्षम.adjective.30.सह')",
+                    "Lemma('क्षम.adjective.30.सुशक्त')",
+                    "Lemma('क्षम.adjective.30.कल्पुष')"
+                  ],
+                  "pos": "adjective"
+                }
+              ]
+            },
+            {
+              "root": "क्षम्१",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "धर्तु।",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "धर्तु",
+              "category": [
+                "unrecognized"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "मित्राणां",
+          "deprel": "compound:coord",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "मित्राणां",
+              "category": [
+                "unrecognized"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "संगः",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "सङ्ग",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "सुखदायकः,",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": []
+        },
+        {
+          "text": "शत्रूणां",
+          "deprel": "compound:coord",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "शत्रूणां",
+              "category": [
+                "unrecognized"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "संगः",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "सङ्ग",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "दुखदायकः।",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "दुखदायकः",
+              "category": [
+                "unrecognized"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "गुरुशिष्ययोः",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "गुरुशिष्य",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "संबंधः",
+          "deprel": "compound:coord",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "सम्बन्ध",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "ज्ञानस्य",
+          "deprel": "compound:coord",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "ज्ञान",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "आधारः।",
+          "deprel": "root",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Case=Nom|Gender=Neut|Number=Sing",
+          "word_analysis": [
+            {
+              "root": "आधार",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "original_sentence": "विद्या विज्ञानयोः संयोजनं मनसः शान्त्यै उपयुक्तम्। संगीतं कला च हृदयशान्तये उपयोगी।",
+      "annotation": [
+        {
+          "text": "विद्या",
+          "deprel": "nmod",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "विद्या",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": [
+                {
+                  "synset": "Synset('विद्या.noun.20487')",
+                  "examples": [
+                    "विद्यायाः अभावात् जीवः जरामरणयोः चक्रे बध्यते।"
+                  ],
+                  "gloss": "मोक्षप्राप्त्यर्थे परमपुरुषार्थस्य सिद्ध्यर्थे वा साधनरूपं ज्ञानम्।",
+                  "head_word": "विद्या",
+                  "lemma_names": [
+                    "विद्या"
+                  ],
+                  "lemmas": [
+                    "Lemma('विद्या.noun.20487.विद्या')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('शास्त्रम्.noun.7968')",
+                  "examples": [
+                    "रामः राजनीतेः शास्त्रम् अधीते।"
+                  ],
+                  "gloss": "जडपदार्थानां लौकिकविषयाणाञ्च ज्ञाततत्त्वानां विवेचनस्य एका स्वतन्त्रा विद्याशाखा।",
+                  "head_word": "शास्त्रम्",
+                  "lemma_names": [
+                    "शास्त्रम्",
+                    "विज्ञानम्",
+                    "विद्या",
+                    "कलिन्दिका",
+                    "कडन्दिका"
+                  ],
+                  "lemmas": [
+                    "Lemma('शास्त्रम्.noun.7968.शास्त्रम्')",
+                    "Lemma('शास्त्रम्.noun.7968.विज्ञानम्')",
+                    "Lemma('शास्त्रम्.noun.7968.विद्या')",
+                    "Lemma('शास्त्रम्.noun.7968.कलिन्दिका')",
+                    "Lemma('शास्त्रम्.noun.7968.कडन्दिका')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('दुर्गा.noun.4404')",
+                  "examples": [
+                    "नवरात्रोत्सवे स्थाने स्थाने दुर्गायाः प्रतिष्ठापना क्रियते।"
+                  ],
+                  "gloss": "सा देवी यया नैके दैत्याः हताः तथा च या आदिशक्तिः अस्ति इति मन्यते।",
+                  "head_word": "दुर्गा",
+                  "lemma_names": [
+                    "दुर्गा",
+                    "उमा",
+                    "कात्यायनी",
+                    "गौरी",
+                    "ब्रह्माणी",
+                    "काली",
+                    "हैमवती",
+                    "ईश्वरा",
+                    "शिवा",
+                    "भवानी",
+                    "रुद्राणी",
+                    "सर्वाणी",
+                    "सर्वमङ्गला",
+                    "अपर्णा",
+                    "पार्वती",
+                    "मृडानी",
+                    "लीलावती",
+                    "चणडिका",
+                    "अम्बिका",
+                    "शारदा",
+                    "चण्डी",
+                    "चण्डा",
+                    "चण्डनायिका",
+                    "गिरिजा",
+                    "मङ्गला",
+                    "नारायणी",
+                    "महामाया",
+                    "वैष्णवी",
+                    "महेश्वरी",
+                    "कोट्टवी",
+                    "षष्ठी",
+                    "माधवी",
+                    "नगनन्दिनी",
+                    "जयन्ती",
+                    "भार्गवी",
+                    "रम्भा",
+                    "सिंहरथा",
+                    "सती",
+                    "भ्रामरी",
+                    "दक्षकन्या",
+                    "महिषमर्दिनी",
+                    "हेरम्बजननी",
+                    "सावित्री",
+                    "कृष्णपिङ्गला",
+                    "वृषाकपायी",
+                    "लम्बा",
+                    "हिमशैलजा",
+                    "कार्त्तिकेयप्रसूः",
+                    "आद्या",
+                    "नित्या",
+                    "विद्या",
+                    "शुभह्करी",
+                    "सात्त्विकी",
+                    "राजसी",
+                    "तामसी",
+                    "भीमा",
+                    "नन्दनन्दिनी",
+                    "महामायी",
+                    "शूलधरा",
+                    "सुनन्दा",
+                    "शुम्यभघातिनी",
+                    "ह्री",
+                    "पर्वतराजतनया",
+                    "हिमालयसुता",
+                    "महेश्वरवनिता",
+                    "सत्या",
+                    "भगवती",
+                    "ईशाना",
+                    "सनातनी",
+                    "महाकाली",
+                    "शिवानी",
+                    "हरवल्लभा",
+                    "उग्रचण्डा",
+                    "चामुण्डा",
+                    "विधात्री",
+                    "आनन्दा",
+                    "महामात्रा",
+                    "महामुद्रा",
+                    "माकरी",
+                    "भौमी",
+                    "कल्याणी",
+                    "कृष्णा",
+                    "मानदात्री",
+                    "मदालसा",
+                    "मानिनी",
+                    "चार्वङ्गी",
+                    "वाणी",
+                    "ईशा",
+                    "वलेशी",
+                    "भ्रमरी",
+                    "भूष्या",
+                    "फाल्गुनी",
+                    "यती",
+                    "ब्रह्ममयी",
+                    "भाविनी",
+                    "देवी",
+                    "अचिन्ता",
+                    "त्रिनेत्रा",
+                    "त्रिशूला",
+                    "चर्चिका",
+                    "तीव्रा",
+                    "नन्दिनी",
+                    "नन्दा",
+                    "धरित्रिणी",
+                    "मातृका",
+                    "चिदानन्दस्वरूपिणी",
+                    "मनस्विनी",
+                    "महादेवी",
+                    "निद्रारूपा",
+                    "भवानिका",
+                    "तारा",
+                    "नीलसरस्वती",
+                    "कालिका",
+                    "उग्रतारा",
+                    "कामेश्वरी",
+                    "सुन्दरी",
+                    "भैरवी",
+                    "राजराजेश्वरी",
+                    "भुवनेशी",
+                    "त्वरिता",
+                    "महालक्ष्मी",
+                    "राजीवलोचनी",
+                    "धनदा",
+                    "वागीश्वरी",
+                    "त्रिपुरा",
+                    "ज्वाल्मुखी",
+                    "वगलामुखी",
+                    "सिद्धविद्या",
+                    "अन्नपूर्णा",
+                    "विशालाक्षी",
+                    "सुभगा",
+                    "सगुणा",
+                    "निर्गुणा",
+                    "धवला",
+                    "गीतिः",
+                    "गीतवाद्यप्रिया",
+                    "अट्टालवासिनी",
+                    "अट्टहासिनी",
+                    "घोरा",
+                    "प्रेमा",
+                    "वटेश्वरी",
+                    "कीर्तिदा",
+                    "बुद्धिदा",
+                    "अवीरा",
+                    "पण्डितालयवासिनी",
+                    "मण्डिता",
+                    "संवत्सरा",
+                    "कृष्णरूपा",
+                    "बलिप्रिया",
+                    "तुमुला",
+                    "कामिनी",
+                    "कामरूपा",
+                    "पुण्यदा",
+                    "विष्णुचक्रधरा",
+                    "पञ्चमा",
+                    "वृन्दावनस्वरूपिणी",
+                    "अयोध्यारुपिणी",
+                    "मायावती",
+                    "जीमूतवसना",
+                    "जगन्नाथस्वरूपिणी",
+                    "कृत्तिवसना",
+                    "त्रियामा",
+                    "जमलार्जुनी",
+                    "यामिनी",
+                    "यशोदा",
+                    "यादवी",
+                    "जगती",
+                    "कृष्णजाया",
+                    "सत्यभामा",
+                    "सुभद्रिका",
+                    "लक्ष्मणा",
+                    "दिगम्बरी",
+                    "पृथुका",
+                    "तीक्ष्णा",
+                    "आचारा",
+                    "अक्रूरा",
+                    "जाह्नवी",
+                    "गण्डकी",
+                    "ध्येया",
+                    "जृम्भणी",
+                    "मोहिनी",
+                    "विकारा",
+                    "अक्षरवासिनी",
+                    "अंशका",
+                    "पत्रिका",
+                    "पवित्रिका",
+                    "तुलसी",
+                    "अतुला",
+                    "जानकी",
+                    "वन्द्या",
+                    "कामना",
+                    "नारसिंही",
+                    "गिरीशा",
+                    "साध्वी",
+                    "कल्याणी",
+                    "कमला",
+                    "कान्ता",
+                    "शान्ता",
+                    "कुला",
+                    "वेदमाता",
+                    "कर्मदा",
+                    "सन्ध्या",
+                    "त्रिपुरसुन्दरी",
+                    "रासेशी",
+                    "दक्षयज्ञविनाशिनी",
+                    "अनन्ता",
+                    "धर्मेश्वरी",
+                    "चक्रेश्वरी",
+                    "खञ्जना",
+                    "विदग्धा",
+                    "कुञ्जिका",
+                    "चित्रा",
+                    "सुलेखा",
+                    "चतुर्भुजा",
+                    "राका",
+                    "प्रज्ञा",
+                    "ऋद्भिदा",
+                    "तापिनी",
+                    "तपा",
+                    "सुमन्त्रा",
+                    "दूती",
+                    "अशनी",
+                    "कराला",
+                    "कालकी",
+                    "कुष्माण्डी",
+                    "कैटभा",
+                    "कैटभी",
+                    "क्षत्रिया",
+                    "क्षमा",
+                    "क्षेमा",
+                    "चण्डालिका",
+                    "जयन्ती",
+                    "भेरुण्डा"
+                  ],
+                  "lemmas": [
+                    "Lemma('दुर्गा.noun.4404.दुर्गा')",
+                    "Lemma('दुर्गा.noun.4404.उमा')",
+                    "Lemma('दुर्गा.noun.4404.कात्यायनी')",
+                    "Lemma('दुर्गा.noun.4404.गौरी')",
+                    "Lemma('दुर्गा.noun.4404.ब्रह्माणी')",
+                    "Lemma('दुर्गा.noun.4404.काली')",
+                    "Lemma('दुर्गा.noun.4404.हैमवती')",
+                    "Lemma('दुर्गा.noun.4404.ईश्वरा')",
+                    "Lemma('दुर्गा.noun.4404.शिवा')",
+                    "Lemma('दुर्गा.noun.4404.भवानी')",
+                    "Lemma('दुर्गा.noun.4404.रुद्राणी')",
+                    "Lemma('दुर्गा.noun.4404.सर्वाणी')",
+                    "Lemma('दुर्गा.noun.4404.सर्वमङ्गला')",
+                    "Lemma('दुर्गा.noun.4404.अपर्णा')",
+                    "Lemma('दुर्गा.noun.4404.पार्वती')",
+                    "Lemma('दुर्गा.noun.4404.मृडानी')",
+                    "Lemma('दुर्गा.noun.4404.लीलावती')",
+                    "Lemma('दुर्गा.noun.4404.चणडिका')",
+                    "Lemma('दुर्गा.noun.4404.अम्बिका')",
+                    "Lemma('दुर्गा.noun.4404.शारदा')",
+                    "Lemma('दुर्गा.noun.4404.चण्डी')",
+                    "Lemma('दुर्गा.noun.4404.चण्डा')",
+                    "Lemma('दुर्गा.noun.4404.चण्डनायिका')",
+                    "Lemma('दुर्गा.noun.4404.गिरिजा')",
+                    "Lemma('दुर्गा.noun.4404.मङ्गला')",
+                    "Lemma('दुर्गा.noun.4404.नारायणी')",
+                    "Lemma('दुर्गा.noun.4404.महामाया')",
+                    "Lemma('दुर्गा.noun.4404.वैष्णवी')",
+                    "Lemma('दुर्गा.noun.4404.महेश्वरी')",
+                    "Lemma('दुर्गा.noun.4404.कोट्टवी')",
+                    "Lemma('दुर्गा.noun.4404.षष्ठी')",
+                    "Lemma('दुर्गा.noun.4404.माधवी')",
+                    "Lemma('दुर्गा.noun.4404.नगनन्दिनी')",
+                    "Lemma('दुर्गा.noun.4404.जयन्ती')",
+                    "Lemma('दुर्गा.noun.4404.भार्गवी')",
+                    "Lemma('दुर्गा.noun.4404.रम्भा')",
+                    "Lemma('दुर्गा.noun.4404.सिंहरथा')",
+                    "Lemma('दुर्गा.noun.4404.सती')",
+                    "Lemma('दुर्गा.noun.4404.भ्रामरी')",
+                    "Lemma('दुर्गा.noun.4404.दक्षकन्या')",
+                    "Lemma('दुर्गा.noun.4404.महिषमर्दिनी')",
+                    "Lemma('दुर्गा.noun.4404.हेरम्बजननी')",
+                    "Lemma('दुर्गा.noun.4404.सावित्री')",
+                    "Lemma('दुर्गा.noun.4404.कृष्णपिङ्गला')",
+                    "Lemma('दुर्गा.noun.4404.वृषाकपायी')",
+                    "Lemma('दुर्गा.noun.4404.लम्बा')",
+                    "Lemma('दुर्गा.noun.4404.हिमशैलजा')",
+                    "Lemma('दुर्गा.noun.4404.कार्त्तिकेयप्रसूः')",
+                    "Lemma('दुर्गा.noun.4404.आद्या')",
+                    "Lemma('दुर्गा.noun.4404.नित्या')",
+                    "Lemma('दुर्गा.noun.4404.विद्या')",
+                    "Lemma('दुर्गा.noun.4404.शुभह्करी')",
+                    "Lemma('दुर्गा.noun.4404.सात्त्विकी')",
+                    "Lemma('दुर्गा.noun.4404.राजसी')",
+                    "Lemma('दुर्गा.noun.4404.तामसी')",
+                    "Lemma('दुर्गा.noun.4404.भीमा')",
+                    "Lemma('दुर्गा.noun.4404.नन्दनन्दिनी')",
+                    "Lemma('दुर्गा.noun.4404.महामायी')",
+                    "Lemma('दुर्गा.noun.4404.शूलधरा')",
+                    "Lemma('दुर्गा.noun.4404.सुनन्दा')",
+                    "Lemma('दुर्गा.noun.4404.शुम्यभघातिनी')",
+                    "Lemma('दुर्गा.noun.4404.ह्री')",
+                    "Lemma('दुर्गा.noun.4404.पर्वतराजतनया')",
+                    "Lemma('दुर्गा.noun.4404.हिमालयसुता')",
+                    "Lemma('दुर्गा.noun.4404.महेश्वरवनिता')",
+                    "Lemma('दुर्गा.noun.4404.सत्या')",
+                    "Lemma('दुर्गा.noun.4404.भगवती')",
+                    "Lemma('दुर्गा.noun.4404.ईशाना')",
+                    "Lemma('दुर्गा.noun.4404.सनातनी')",
+                    "Lemma('दुर्गा.noun.4404.महाकाली')",
+                    "Lemma('दुर्गा.noun.4404.शिवानी')",
+                    "Lemma('दुर्गा.noun.4404.हरवल्लभा')",
+                    "Lemma('दुर्गा.noun.4404.उग्रचण्डा')",
+                    "Lemma('दुर्गा.noun.4404.चामुण्डा')",
+                    "Lemma('दुर्गा.noun.4404.विधात्री')",
+                    "Lemma('दुर्गा.noun.4404.आनन्दा')",
+                    "Lemma('दुर्गा.noun.4404.महामात्रा')",
+                    "Lemma('दुर्गा.noun.4404.महामुद्रा')",
+                    "Lemma('दुर्गा.noun.4404.माकरी')",
+                    "Lemma('दुर्गा.noun.4404.भौमी')",
+                    "Lemma('दुर्गा.noun.4404.कल्याणी')",
+                    "Lemma('दुर्गा.noun.4404.कृष्णा')",
+                    "Lemma('दुर्गा.noun.4404.मानदात्री')",
+                    "Lemma('दुर्गा.noun.4404.मदालसा')",
+                    "Lemma('दुर्गा.noun.4404.मानिनी')",
+                    "Lemma('दुर्गा.noun.4404.चार्वङ्गी')",
+                    "Lemma('दुर्गा.noun.4404.वाणी')",
+                    "Lemma('दुर्गा.noun.4404.ईशा')",
+                    "Lemma('दुर्गा.noun.4404.वलेशी')",
+                    "Lemma('दुर्गा.noun.4404.भ्रमरी')",
+                    "Lemma('दुर्गा.noun.4404.भूष्या')",
+                    "Lemma('दुर्गा.noun.4404.फाल्गुनी')",
+                    "Lemma('दुर्गा.noun.4404.यती')",
+                    "Lemma('दुर्गा.noun.4404.ब्रह्ममयी')",
+                    "Lemma('दुर्गा.noun.4404.भाविनी')",
+                    "Lemma('दुर्गा.noun.4404.देवी')",
+                    "Lemma('दुर्गा.noun.4404.अचिन्ता')",
+                    "Lemma('दुर्गा.noun.4404.त्रिनेत्रा')",
+                    "Lemma('दुर्गा.noun.4404.त्रिशूला')",
+                    "Lemma('दुर्गा.noun.4404.चर्चिका')",
+                    "Lemma('दुर्गा.noun.4404.तीव्रा')",
+                    "Lemma('दुर्गा.noun.4404.नन्दिनी')",
+                    "Lemma('दुर्गा.noun.4404.नन्दा')",
+                    "Lemma('दुर्गा.noun.4404.धरित्रिणी')",
+                    "Lemma('दुर्गा.noun.4404.मातृका')",
+                    "Lemma('दुर्गा.noun.4404.चिदानन्दस्वरूपिणी')",
+                    "Lemma('दुर्गा.noun.4404.मनस्विनी')",
+                    "Lemma('दुर्गा.noun.4404.महादेवी')",
+                    "Lemma('दुर्गा.noun.4404.निद्रारूपा')",
+                    "Lemma('दुर्गा.noun.4404.भवानिका')",
+                    "Lemma('दुर्गा.noun.4404.तारा')",
+                    "Lemma('दुर्गा.noun.4404.नीलसरस्वती')",
+                    "Lemma('दुर्गा.noun.4404.कालिका')",
+                    "Lemma('दुर्गा.noun.4404.उग्रतारा')",
+                    "Lemma('दुर्गा.noun.4404.कामेश्वरी')",
+                    "Lemma('दुर्गा.noun.4404.सुन्दरी')",
+                    "Lemma('दुर्गा.noun.4404.भैरवी')",
+                    "Lemma('दुर्गा.noun.4404.राजराजेश्वरी')",
+                    "Lemma('दुर्गा.noun.4404.भुवनेशी')",
+                    "Lemma('दुर्गा.noun.4404.त्वरिता')",
+                    "Lemma('दुर्गा.noun.4404.महालक्ष्मी')",
+                    "Lemma('दुर्गा.noun.4404.राजीवलोचनी')",
+                    "Lemma('दुर्गा.noun.4404.धनदा')",
+                    "Lemma('दुर्गा.noun.4404.वागीश्वरी')",
+                    "Lemma('दुर्गा.noun.4404.त्रिपुरा')",
+                    "Lemma('दुर्गा.noun.4404.ज्वाल्मुखी')",
+                    "Lemma('दुर्गा.noun.4404.वगलामुखी')",
+                    "Lemma('दुर्गा.noun.4404.सिद्धविद्या')",
+                    "Lemma('दुर्गा.noun.4404.अन्नपूर्णा')",
+                    "Lemma('दुर्गा.noun.4404.विशालाक्षी')",
+                    "Lemma('दुर्गा.noun.4404.सुभगा')",
+                    "Lemma('दुर्गा.noun.4404.सगुणा')",
+                    "Lemma('दुर्गा.noun.4404.निर्गुणा')",
+                    "Lemma('दुर्गा.noun.4404.धवला')",
+                    "Lemma('दुर्गा.noun.4404.गीतिः')",
+                    "Lemma('दुर्गा.noun.4404.गीतवाद्यप्रिया')",
+                    "Lemma('दुर्गा.noun.4404.अट्टालवासिनी')",
+                    "Lemma('दुर्गा.noun.4404.अट्टहासिनी')",
+                    "Lemma('दुर्गा.noun.4404.घोरा')",
+                    "Lemma('दुर्गा.noun.4404.प्रेमा')",
+                    "Lemma('दुर्गा.noun.4404.वटेश्वरी')",
+                    "Lemma('दुर्गा.noun.4404.कीर्तिदा')",
+                    "Lemma('दुर्गा.noun.4404.बुद्धिदा')",
+                    "Lemma('दुर्गा.noun.4404.अवीरा')",
+                    "Lemma('दुर्गा.noun.4404.पण्डितालयवासिनी')",
+                    "Lemma('दुर्गा.noun.4404.मण्डिता')",
+                    "Lemma('दुर्गा.noun.4404.संवत्सरा')",
+                    "Lemma('दुर्गा.noun.4404.कृष्णरूपा')",
+                    "Lemma('दुर्गा.noun.4404.बलिप्रिया')",
+                    "Lemma('दुर्गा.noun.4404.तुमुला')",
+                    "Lemma('दुर्गा.noun.4404.कामिनी')",
+                    "Lemma('दुर्गा.noun.4404.कामरूपा')",
+                    "Lemma('दुर्गा.noun.4404.पुण्यदा')",
+                    "Lemma('दुर्गा.noun.4404.विष्णुचक्रधरा')",
+                    "Lemma('दुर्गा.noun.4404.पञ्चमा')",
+                    "Lemma('दुर्गा.noun.4404.वृन्दावनस्वरूपिणी')",
+                    "Lemma('दुर्गा.noun.4404.अयोध्यारुपिणी')",
+                    "Lemma('दुर्गा.noun.4404.मायावती')",
+                    "Lemma('दुर्गा.noun.4404.जीमूतवसना')",
+                    "Lemma('दुर्गा.noun.4404.जगन्नाथस्वरूपिणी')",
+                    "Lemma('दुर्गा.noun.4404.कृत्तिवसना')",
+                    "Lemma('दुर्गा.noun.4404.त्रियामा')",
+                    "Lemma('दुर्गा.noun.4404.जमलार्जुनी')",
+                    "Lemma('दुर्गा.noun.4404.यामिनी')",
+                    "Lemma('दुर्गा.noun.4404.यशोदा')",
+                    "Lemma('दुर्गा.noun.4404.यादवी')",
+                    "Lemma('दुर्गा.noun.4404.जगती')",
+                    "Lemma('दुर्गा.noun.4404.कृष्णजाया')",
+                    "Lemma('दुर्गा.noun.4404.सत्यभामा')",
+                    "Lemma('दुर्गा.noun.4404.सुभद्रिका')",
+                    "Lemma('दुर्गा.noun.4404.लक्ष्मणा')",
+                    "Lemma('दुर्गा.noun.4404.दिगम्बरी')",
+                    "Lemma('दुर्गा.noun.4404.पृथुका')",
+                    "Lemma('दुर्गा.noun.4404.तीक्ष्णा')",
+                    "Lemma('दुर्गा.noun.4404.आचारा')",
+                    "Lemma('दुर्गा.noun.4404.अक्रूरा')",
+                    "Lemma('दुर्गा.noun.4404.जाह्नवी')",
+                    "Lemma('दुर्गा.noun.4404.गण्डकी')",
+                    "Lemma('दुर्गा.noun.4404.ध्येया')",
+                    "Lemma('दुर्गा.noun.4404.जृम्भणी')",
+                    "Lemma('दुर्गा.noun.4404.मोहिनी')",
+                    "Lemma('दुर्गा.noun.4404.विकारा')",
+                    "Lemma('दुर्गा.noun.4404.अक्षरवासिनी')",
+                    "Lemma('दुर्गा.noun.4404.अंशका')",
+                    "Lemma('दुर्गा.noun.4404.पत्रिका')",
+                    "Lemma('दुर्गा.noun.4404.पवित्रिका')",
+                    "Lemma('दुर्गा.noun.4404.तुलसी')",
+                    "Lemma('दुर्गा.noun.4404.अतुला')",
+                    "Lemma('दुर्गा.noun.4404.जानकी')",
+                    "Lemma('दुर्गा.noun.4404.वन्द्या')",
+                    "Lemma('दुर्गा.noun.4404.कामना')",
+                    "Lemma('दुर्गा.noun.4404.नारसिंही')",
+                    "Lemma('दुर्गा.noun.4404.गिरीशा')",
+                    "Lemma('दुर्गा.noun.4404.साध्वी')",
+                    "Lemma('दुर्गा.noun.4404.कल्याणी')",
+                    "Lemma('दुर्गा.noun.4404.कमला')",
+                    "Lemma('दुर्गा.noun.4404.कान्ता')",
+                    "Lemma('दुर्गा.noun.4404.शान्ता')",
+                    "Lemma('दुर्गा.noun.4404.कुला')",
+                    "Lemma('दुर्गा.noun.4404.वेदमाता')",
+                    "Lemma('दुर्गा.noun.4404.कर्मदा')",
+                    "Lemma('दुर्गा.noun.4404.सन्ध्या')",
+                    "Lemma('दुर्गा.noun.4404.त्रिपुरसुन्दरी')",
+                    "Lemma('दुर्गा.noun.4404.रासेशी')",
+                    "Lemma('दुर्गा.noun.4404.दक्षयज्ञविनाशिनी')",
+                    "Lemma('दुर्गा.noun.4404.अनन्ता')",
+                    "Lemma('दुर्गा.noun.4404.धर्मेश्वरी')",
+                    "Lemma('दुर्गा.noun.4404.चक्रेश्वरी')",
+                    "Lemma('दुर्गा.noun.4404.खञ्जना')",
+                    "Lemma('दुर्गा.noun.4404.विदग्धा')",
+                    "Lemma('दुर्गा.noun.4404.कुञ्जिका')",
+                    "Lemma('दुर्गा.noun.4404.चित्रा')",
+                    "Lemma('दुर्गा.noun.4404.सुलेखा')",
+                    "Lemma('दुर्गा.noun.4404.चतुर्भुजा')",
+                    "Lemma('दुर्गा.noun.4404.राका')",
+                    "Lemma('दुर्गा.noun.4404.प्रज्ञा')",
+                    "Lemma('दुर्गा.noun.4404.ऋद्भिदा')",
+                    "Lemma('दुर्गा.noun.4404.तापिनी')",
+                    "Lemma('दुर्गा.noun.4404.तपा')",
+                    "Lemma('दुर्गा.noun.4404.सुमन्त्रा')",
+                    "Lemma('दुर्गा.noun.4404.दूती')",
+                    "Lemma('दुर्गा.noun.4404.अशनी')",
+                    "Lemma('दुर्गा.noun.4404.कराला')",
+                    "Lemma('दुर्गा.noun.4404.कालकी')",
+                    "Lemma('दुर्गा.noun.4404.कुष्माण्डी')",
+                    "Lemma('दुर्गा.noun.4404.कैटभा')",
+                    "Lemma('दुर्गा.noun.4404.कैटभी')",
+                    "Lemma('दुर्गा.noun.4404.क्षत्रिया')",
+                    "Lemma('दुर्गा.noun.4404.क्षमा')",
+                    "Lemma('दुर्गा.noun.4404.क्षेमा')",
+                    "Lemma('दुर्गा.noun.4404.चण्डालिका')",
+                    "Lemma('दुर्गा.noun.4404.जयन्ती')",
+                    "Lemma('दुर्गा.noun.4404.भेरुण्डा')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('विद्या.noun.2957')",
+                  "examples": [
+                    "प्राचीनकाले विद्यायाः केन्द्रं काशी आसीत्।"
+                  ],
+                  "gloss": "शिक्षादिभ्यः प्राप्तं ज्ञानम्।",
+                  "head_word": "विद्या",
+                  "lemma_names": [
+                    "विद्या"
+                  ],
+                  "lemmas": [
+                    "Lemma('विद्या.noun.2957.विद्या')"
+                  ],
+                  "pos": "noun"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "विज्ञानयोः",
+          "deprel": "root",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "विज्ञान",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "संयोजनं",
+          "deprel": "conj",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "संयोजनं",
+              "category": [
+                "unrecognized"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "मनसः",
+          "deprel": "nmod",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "मनस्",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "मनस्",
+              "category": [
+                "vocative"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "शान्त्यै",
+          "deprel": "conj",
+          "pos": "NOUN",
+          "upos": "NOUN",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "शान्ति",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "शान्त",
+              "category": [
+                "special infinitive form"
+              ],
+              "synset_data": [
+                {
+                  "synset": "Synset('शान्त.adjective.8055')",
+                  "examples": [
+                    "एतत् स्थानं शान्तम् अस्ति।"
+                  ],
+                  "gloss": "यः शान्त्या परिपूर्णः।",
+                  "head_word": "शान्त",
+                  "lemma_names": [
+                    "शान्त"
+                  ],
+                  "lemmas": [
+                    "Lemma('शान्त.adjective.8055.शान्त')"
+                  ],
+                  "pos": "adjective"
+                },
+                {
+                  "synset": "Synset('शान्त.adjective.5752')",
+                  "examples": [
+                    "सा शान्ते अग्नौ जलं सिञ्चति।"
+                  ],
+                  "gloss": "यः न प्रज्वलति।",
+                  "head_word": "शान्त",
+                  "lemma_names": [
+                    "शान्त"
+                  ],
+                  "lemmas": [
+                    "Lemma('शान्त.adjective.5752.शान्त')"
+                  ],
+                  "pos": "adjective"
+                },
+                {
+                  "synset": "Synset('शान्त.adjective.5754')",
+                  "examples": [
+                    "रोहितस्य शान्तः स्वभावः सर्वेभ्यः रोचते।"
+                  ],
+                  "gloss": "यः प्रकृत्या क्रोधेन आवेशेन वा युक्तः नास्ति।",
+                  "head_word": "शान्त",
+                  "lemma_names": [
+                    "शान्त"
+                  ],
+                  "lemmas": [
+                    "Lemma('शान्त.adjective.5754.शान्त')"
+                  ],
+                  "pos": "adjective"
+                },
+                {
+                  "synset": "Synset('शान्त.adjective.4659')",
+                  "examples": [
+                    "तस्य कथनं श्रुत्वा अहं शान्तः अभवम्।"
+                  ],
+                  "gloss": "यः किमपि न वदति।",
+                  "head_word": "शान्त",
+                  "lemma_names": [
+                    "शान्त",
+                    "अवाक्",
+                    "निर्वाक्",
+                    "निर्वचन",
+                    "निभृत"
+                  ],
+                  "lemmas": [
+                    "Lemma('शान्त.adjective.4659.शान्त')",
+                    "Lemma('शान्त.adjective.4659.अवाक्')",
+                    "Lemma('शान्त.adjective.4659.निर्वाक्')",
+                    "Lemma('शान्त.adjective.4659.निर्वचन')",
+                    "Lemma('शान्त.adjective.4659.निभृत')"
+                  ],
+                  "pos": "adjective"
+                },
+                {
+                  "synset": "Synset('प्रशान्त.adjective.2748')",
+                  "examples": [
+                    "प्रशान्तः व्यक्तिः विपत्तिभ्यः न बिभेति।"
+                  ],
+                  "gloss": "यस्य चित्त स्थिरम् अस्ति।",
+                  "head_word": "प्रशान्त",
+                  "lemma_names": [
+                    "प्रशान्त",
+                    "शान्त",
+                    "स्थिरचित्त",
+                    "स्थिर",
+                    "उपशान्त",
+                    "धीरशान्त",
+                    "सूरत",
+                    "विप्रसन्न",
+                    "शान्तिमत्"
+                  ],
+                  "lemmas": [
+                    "Lemma('प्रशान्त.adjective.2748.प्रशान्त')",
+                    "Lemma('प्रशान्त.adjective.2748.शान्त')",
+                    "Lemma('प्रशान्त.adjective.2748.स्थिरचित्त')",
+                    "Lemma('प्रशान्त.adjective.2748.स्थिर')",
+                    "Lemma('प्रशान्त.adjective.2748.उपशान्त')",
+                    "Lemma('प्रशान्त.adjective.2748.धीरशान्त')",
+                    "Lemma('प्रशान्त.adjective.2748.सूरत')",
+                    "Lemma('प्रशान्त.adjective.2748.विप्रसन्न')",
+                    "Lemma('प्रशान्त.adjective.2748.शान्तिमत्')"
+                  ],
+                  "pos": "adjective"
+                },
+                {
+                  "synset": "Synset('शान्त.adjective.2439')",
+                  "examples": [
+                    "मोहनस्य जीवनं शान्तम् अस्ति।"
+                  ],
+                  "gloss": "यद् उद्विग्नं नास्ति।",
+                  "head_word": "शान्त",
+                  "lemma_names": [
+                    "शान्त",
+                    "प्रशान्त",
+                    "निरुद्विग्न",
+                    "अविकल",
+                    "अव्याकुल",
+                    "अव्यग्र",
+                    "विश्रब्ध",
+                    "निराकुल",
+                    "अनाकुल",
+                    "शमित",
+                    "विश्रान्त",
+                    "शान्तचेतस्"
+                  ],
+                  "lemmas": [
+                    "Lemma('शान्त.adjective.2439.शान्त')",
+                    "Lemma('शान्त.adjective.2439.प्रशान्त')",
+                    "Lemma('शान्त.adjective.2439.निरुद्विग्न')",
+                    "Lemma('शान्त.adjective.2439.अविकल')",
+                    "Lemma('शान्त.adjective.2439.अव्याकुल')",
+                    "Lemma('शान्त.adjective.2439.अव्यग्र')",
+                    "Lemma('शान्त.adjective.2439.विश्रब्ध')",
+                    "Lemma('शान्त.adjective.2439.निराकुल')",
+                    "Lemma('शान्त.adjective.2439.अनाकुल')",
+                    "Lemma('शान्त.adjective.2439.शमित')",
+                    "Lemma('शान्त.adjective.2439.विश्रान्त')",
+                    "Lemma('शान्त.adjective.2439.शान्तचेतस्')"
+                  ],
+                  "pos": "adjective"
+                },
+                {
+                  "synset": "Synset('गम्भीर.adjective.2420')",
+                  "examples": [
+                    "सः प्रकृत्या गम्भीरः अस्ति।"
+                  ],
+                  "gloss": "यः चञ्चलः नास्ति।",
+                  "head_word": "गम्भीर",
+                  "lemma_names": [
+                    "गम्भीर",
+                    "शान्त",
+                    "सौम्य",
+                    "अटल",
+                    "दृढ",
+                    "स्थिरधी",
+                    "स्थिरमति",
+                    "स्थिरमनस्",
+                    "स्थिरात्मन्",
+                    "स्थितिमत्",
+                    "स्थितमति",
+                    "स्थितप्रजा",
+                    "स्थितधी",
+                    "सुस्थिर",
+                    "सुधीर",
+                    "प्रस्थ",
+                    "धृतात्मन्"
+                  ],
+                  "lemmas": [
+                    "Lemma('गम्भीर.adjective.2420.गम्भीर')",
+                    "Lemma('गम्भीर.adjective.2420.शान्त')",
+                    "Lemma('गम्भीर.adjective.2420.सौम्य')",
+                    "Lemma('गम्भीर.adjective.2420.अटल')",
+                    "Lemma('गम्भीर.adjective.2420.दृढ')",
+                    "Lemma('गम्भीर.adjective.2420.स्थिरधी')",
+                    "Lemma('गम्भीर.adjective.2420.स्थिरमति')",
+                    "Lemma('गम्भीर.adjective.2420.स्थिरमनस्')",
+                    "Lemma('गम्भीर.adjective.2420.स्थिरात्मन्')",
+                    "Lemma('गम्भीर.adjective.2420.स्थितिमत्')",
+                    "Lemma('गम्भीर.adjective.2420.स्थितमति')",
+                    "Lemma('गम्भीर.adjective.2420.स्थितप्रजा')",
+                    "Lemma('गम्भीर.adjective.2420.स्थितधी')",
+                    "Lemma('गम्भीर.adjective.2420.सुस्थिर')",
+                    "Lemma('गम्भीर.adjective.2420.सुधीर')",
+                    "Lemma('गम्भीर.adjective.2420.प्रस्थ')",
+                    "Lemma('गम्भीर.adjective.2420.धृतात्मन्')"
+                  ],
+                  "pos": "adjective"
+                },
+                {
+                  "synset": "Synset('निरुपद्रव.noun.37398')",
+                  "examples": [
+                    "निरुपद्रवाः बालकाः सर्वेभ्यः रोचन्ते ।"
+                  ],
+                  "gloss": "यद् उपद्रवं न करोति ।",
+                  "head_word": "निरुपद्रव",
+                  "lemma_names": [
+                    "निरुपद्रव",
+                    "अनपकारिन्",
+                    "शान्त",
+                    "निरुपहत"
+                  ],
+                  "lemmas": [
+                    "Lemma('निरुपद्रव.noun.37398.निरुपद्रव')",
+                    "Lemma('निरुपद्रव.noun.37398.अनपकारिन्')",
+                    "Lemma('निरुपद्रव.noun.37398.शान्त')",
+                    "Lemma('निरुपद्रव.noun.37398.निरुपहत')"
+                  ],
+                  "pos": "noun"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "उपयुक्तम्।",
+          "deprel": "conj",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "उप-युक्त",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "संगीतं",
+          "deprel": "conj",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Number=Sing",
+          "word_analysis": [
+            {
+              "root": "सङ्गीतं",
+              "category": [
+                "unrecognized"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "कला",
+          "deprel": "advmod",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "कला",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": [
+                {
+                  "synset": "Synset('कला.noun.37722')",
+                  "examples": [
+                    "नागरिकशास्त्रम्,  राज्यशास्त्रम्,  नृत्यम्, सङ्गीतम् इत्यादयः विषयाः कलायाः अन्तर्गताः सन्ति ।"
+                  ],
+                  "gloss": "शिक्षणक्षेत्रस्य एका शाखा यस्यां विज्ञानं वाणिज्यं च त्यक्त्वा अन्येषां विषयाणाम् अध्ययनम् अध्यापनं वा क्रियते ।",
+                  "head_word": "कला",
+                  "lemma_names": [
+                    "कला"
+                  ],
+                  "lemmas": [
+                    "Lemma('कला.noun.37722.कला')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('कला.noun.26382')",
+                  "examples": [
+                    "कश्यपः कलायाः पुत्रः"
+                  ],
+                  "gloss": "मरिचेः पत्नी",
+                  "head_word": "कला",
+                  "lemma_names": [
+                    "कला"
+                  ],
+                  "lemmas": [
+                    "Lemma('कला.noun.26382.कला')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('कला.noun.26383')",
+                  "examples": [
+                    "कलायाः प्रत्येकस्मिन् चरणे भगणः गुरुश्च भवति।"
+                  ],
+                  "gloss": "वर्णवृत्तविशेषः।",
+                  "head_word": "कला",
+                  "lemma_names": [
+                    "कला"
+                  ],
+                  "lemmas": [
+                    "Lemma('कला.noun.26383.कला')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('कला.noun.8063')",
+                  "examples": [
+                    "सर्वेषु कला न विद्यते।"
+                  ],
+                  "gloss": "चतुष्षष्टिविद्यासु एका विद्या या अभ्यासेन संवर्ध्यते।",
+                  "head_word": "कला",
+                  "lemma_names": [
+                    "कला"
+                  ],
+                  "lemmas": [
+                    "Lemma('कला.noun.8063.कला')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('वृद्धिः.noun.7350')",
+                  "examples": [
+                    "श्यामः वृद्धिं निश्चित्य एव ऋणं यच्छति। "
+                  ],
+                  "gloss": "ऋणत्वेन यद् धनं दत्तम् तस्मात् अथवा यद् धनं वित्तकोषे निहितम् अस्ति तस्मात् धनार्घत्वेन पर्यायशः प्राप्यमाणा निश्चितः धनराशिः।",
+                  "head_word": "वृद्धिः",
+                  "lemma_names": [
+                    "वृद्धिः",
+                    "वार्धुष्यम्",
+                    "भागः",
+                    "कलान्तरम्",
+                    "कारिका",
+                    "कारिता",
+                    "कुसीदवृद्धिः",
+                    "कला"
+                  ],
+                  "lemmas": [
+                    "Lemma('वृद्धिः.noun.7350.वृद्धिः')",
+                    "Lemma('वृद्धिः.noun.7350.वार्धुष्यम्')",
+                    "Lemma('वृद्धिः.noun.7350.भागः')",
+                    "Lemma('वृद्धिः.noun.7350.कलान्तरम्')",
+                    "Lemma('वृद्धिः.noun.7350.कारिका')",
+                    "Lemma('वृद्धिः.noun.7350.कारिता')",
+                    "Lemma('वृद्धिः.noun.7350.कुसीदवृद्धिः')",
+                    "Lemma('वृद्धिः.noun.7350.कला')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('खण्डः.noun.1957')",
+                  "examples": [
+                    "अस्य यन्त्रस्य सर्वे खण्डाः एकस्मिन् एव यन्त्रालये निर्मिताः। "
+                  ],
+                  "gloss": "वस्तुनः अङ्गानि येषां तद् वस्तु अङ्गि।",
+                  "head_word": "खण्डः",
+                  "lemma_names": [
+                    "खण्डः",
+                    "अंशः",
+                    "विभागः",
+                    "कला",
+                    "चरणम्"
+                  ],
+                  "lemmas": [
+                    "Lemma('खण्डः.noun.1957.खण्डः')",
+                    "Lemma('खण्डः.noun.1957.अंशः')",
+                    "Lemma('खण्डः.noun.1957.विभागः')",
+                    "Lemma('खण्डः.noun.1957.कला')",
+                    "Lemma('खण्डः.noun.1957.चरणम्')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('कला.noun.1063')",
+                  "examples": [
+                    "जगति जयिनस्ते ते भावा नवेन्दुकलादयः।"
+                  ],
+                  "gloss": "चन्द्रप्रकाशस्य षोडशोऽशः।",
+                  "head_word": "कला",
+                  "lemma_names": [
+                    "कला",
+                    "चन्द्रकला",
+                    "इन्दुकला",
+                    "इन्दुरेखा",
+                    "शशिरेखा",
+                    "शशिलेखा"
+                  ],
+                  "lemmas": [
+                    "Lemma('कला.noun.1063.कला')",
+                    "Lemma('कला.noun.1063.चन्द्रकला')",
+                    "Lemma('कला.noun.1063.इन्दुकला')",
+                    "Lemma('कला.noun.1063.इन्दुरेखा')",
+                    "Lemma('कला.noun.1063.शशिरेखा')",
+                    "Lemma('कला.noun.1063.शशिलेखा')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('कला.noun.136044')",
+                  "examples": [
+                    "कलायाः वर्णनम् कोशे वर्तते"
+                  ],
+                  "gloss": "व्याकरणस्य एका टीका ।",
+                  "head_word": "कला",
+                  "lemma_names": [
+                    "कला"
+                  ],
+                  "lemmas": [
+                    "Lemma('कला.noun.136044.कला')"
+                  ],
+                  "pos": "noun"
+                },
+                {
+                  "synset": "Synset('कला.noun.136043')",
+                  "examples": [
+                    "चन्द्रभागायाः समीपे दाक्षायण्याः कला इति नाम ख्यातः अस्ति"
+                  ],
+                  "gloss": "एका नदी ।",
+                  "head_word": "कला",
+                  "lemma_names": [
+                    "कला"
+                  ],
+                  "lemmas": [
+                    "Lemma('कला.noun.136043.कला')"
+                  ],
+                  "pos": "noun"
+                }
+              ]
+            },
+            {
+              "root": "कल",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": [
+                {
+                  "synset": "Synset('मुदु.adjective.35558')",
+                  "examples": [
+                    "तस्य स्वभावः सरलः तथा च मृदुः अस्ति।"
+                  ],
+                  "gloss": "यस्मिन् कठोरता नास्ति।",
+                  "head_word": "मुदु",
+                  "lemma_names": [
+                    "मुदु",
+                    "पेलव",
+                    "पेशल",
+                    "मुदु",
+                    "मुदुल",
+                    "मृदु",
+                    "मराल",
+                    "कोमल",
+                    "ललित",
+                    "मृदुल",
+                    "कल",
+                    "अपुष्ट",
+                    "अरूक्ष",
+                    "अरूक्षित",
+                    "अरूक्ष्ण",
+                    "अलूक्ष",
+                    "आर्द्र",
+                    "कौमार",
+                    "क्लिन्न",
+                    "धीर"
+                  ],
+                  "lemmas": [
+                    "Lemma('मुदु.adjective.35558.मुदु')",
+                    "Lemma('मुदु.adjective.35558.पेलव')",
+                    "Lemma('मुदु.adjective.35558.पेशल')",
+                    "Lemma('मुदु.adjective.35558.मुदु')",
+                    "Lemma('मुदु.adjective.35558.मुदुल')",
+                    "Lemma('मुदु.adjective.35558.मृदु')",
+                    "Lemma('मुदु.adjective.35558.मराल')",
+                    "Lemma('मुदु.adjective.35558.कोमल')",
+                    "Lemma('मुदु.adjective.35558.ललित')",
+                    "Lemma('मुदु.adjective.35558.मृदुल')",
+                    "Lemma('मुदु.adjective.35558.कल')",
+                    "Lemma('मुदु.adjective.35558.अपुष्ट')",
+                    "Lemma('मुदु.adjective.35558.अरूक्ष')",
+                    "Lemma('मुदु.adjective.35558.अरूक्षित')",
+                    "Lemma('मुदु.adjective.35558.अरूक्ष्ण')",
+                    "Lemma('मुदु.adjective.35558.अलूक्ष')",
+                    "Lemma('मुदु.adjective.35558.आर्द्र')",
+                    "Lemma('मुदु.adjective.35558.कौमार')",
+                    "Lemma('मुदु.adjective.35558.क्लिन्न')",
+                    "Lemma('मुदु.adjective.35558.धीर')"
+                  ],
+                  "pos": "adjective"
+                },
+                {
+                  "synset": "Synset('कन्दल.adjective.6317')",
+                  "examples": [
+                    "सीता कन्दले स्वरे गायति।"
+                  ],
+                  "gloss": "यः सामान्यात् निम्नः अस्ति।",
+                  "head_word": "कन्दल",
+                  "lemma_names": [
+                    "कन्दल",
+                    "कल",
+                    "कोमल"
+                  ],
+                  "lemmas": [
+                    "Lemma('कन्दल.adjective.6317.कन्दल')",
+                    "Lemma('कन्दल.adjective.6317.कल')",
+                    "Lemma('कन्दल.adjective.6317.कोमल')"
+                  ],
+                  "pos": "adjective"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "च",
+          "deprel": "conj",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "च",
+              "category": [
+                "indeclinable forms such as adverbs, conjunctions, prepositions"
+              ],
+              "synset_data": [
+                {
+                  "synset": "Synset('अपि.adverb.28171')",
+                  "examples": [
+                    "ज्वरः सन् अपि सः वृथा एव इतस्ततः अटति।"
+                  ],
+                  "gloss": "एवम्भूतोऽपि।",
+                  "head_word": "अपि",
+                  "lemma_names": [
+                    "अपि",
+                    "अपि तु",
+                    "तथापि",
+                    "परम्",
+                    "तु",
+                    "किम्",
+                    "किन्तु",
+                    "च",
+                    "ननु",
+                    "वा",
+                    "अथ वा",
+                    "पुनः"
+                  ],
+                  "lemmas": [
+                    "Lemma('अपि.adverb.28171.अपि')",
+                    "Lemma('अपि.adverb.28171.अपि तु')",
+                    "Lemma('अपि.adverb.28171.तथापि')",
+                    "Lemma('अपि.adverb.28171.परम्')",
+                    "Lemma('अपि.adverb.28171.तु')",
+                    "Lemma('अपि.adverb.28171.किम्')",
+                    "Lemma('अपि.adverb.28171.किन्तु')",
+                    "Lemma('अपि.adverb.28171.च')",
+                    "Lemma('अपि.adverb.28171.ननु')",
+                    "Lemma('अपि.adverb.28171.वा')",
+                    "Lemma('अपि.adverb.28171.अथ वा')",
+                    "Lemma('अपि.adverb.28171.पुनः')"
+                  ],
+                  "pos": "adverb"
+                },
+                {
+                  "synset": "Synset('चेष्टालु.adjective.6358')",
+                  "examples": [
+                    "चेष्टालवः बालाः जनान् पीडयन्ति।"
+                  ],
+                  "gloss": "यः चेष्टां करोति।",
+                  "head_word": "चेष्टालु",
+                  "lemma_names": [
+                    "चेष्टालु",
+                    "शरारु",
+                    "पियारु",
+                    "काहल",
+                    "खादुक",
+                    "च",
+                    "धूर्त",
+                    "बन्धुर",
+                    "विष्व",
+                    "हत्रु",
+                    "हानुक",
+                    "शर्शरीक",
+                    "असद्ग्रह",
+                    "खल"
+                  ],
+                  "lemmas": [
+                    "Lemma('चेष्टालु.adjective.6358.चेष्टालु')",
+                    "Lemma('चेष्टालु.adjective.6358.शरारु')",
+                    "Lemma('चेष्टालु.adjective.6358.पियारु')",
+                    "Lemma('चेष्टालु.adjective.6358.काहल')",
+                    "Lemma('चेष्टालु.adjective.6358.खादुक')",
+                    "Lemma('चेष्टालु.adjective.6358.च')",
+                    "Lemma('चेष्टालु.adjective.6358.धूर्त')",
+                    "Lemma('चेष्टालु.adjective.6358.बन्धुर')",
+                    "Lemma('चेष्टालु.adjective.6358.विष्व')",
+                    "Lemma('चेष्टालु.adjective.6358.हत्रु')",
+                    "Lemma('चेष्टालु.adjective.6358.हानुक')",
+                    "Lemma('चेष्टालु.adjective.6358.शर्शरीक')",
+                    "Lemma('चेष्टालु.adjective.6358.असद्ग्रह')",
+                    "Lemma('चेष्टालु.adjective.6358.खल')"
+                  ],
+                  "pos": "adjective"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "हृदयशान्तये",
+          "deprel": "advmod",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Compound=Yes",
+          "word_analysis": [
+            {
+              "root": "हृदय",
+              "category": [
+                "initial part of compounds"
+              ],
+              "synset_data": []
+            },
+            {
+              "root": "शान्ति",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": []
+            }
+          ]
+        },
+        {
+          "text": "उपयोगी।",
+          "deprel": "conj",
+          "pos": "ADJ",
+          "upos": "ADJ",
+          "feats": "Case=Voc|Gender=Masc|Number=Sing",
+          "word_analysis": [
+            {
+              "root": "उपयोगिन्",
+              "category": [
+                "substantive/adjective forms"
+              ],
+              "synset_data": [
+                {
+                  "synset": "Synset('उपयुक्त.adjective.28071')",
+                  "examples": [
+                    "एकम् एव वस्तु कस्यचित् कृते उपयुक्तं तथा च अन्यस्य कृते अनुपयुक्तं भवितुम् अर्हति।"
+                  ],
+                  "gloss": "यस्य उपयोगः कर्तुं शक्यते।",
+                  "head_word": "उपयुक्त",
+                  "lemma_names": [
+                    "उपयुक्त",
+                    "उपयोगिन्"
+                  ],
+                  "lemmas": [
+                    "Lemma('उपयुक्त.adjective.28071.उपयुक्त')",
+                    "Lemma('उपयुक्त.adjective.28071.उपयोगिन्')"
+                  ],
+                  "pos": "adjective"
+                },
+                {
+                  "synset": "Synset('उपयोगिन्.adjective.2451')",
+                  "examples": [
+                    "बालकानां कृते एषः ग्रन्थः उपयोगी अस्ति।"
+                  ],
+                  "gloss": "उपयुक्तद्रव्यादिः।",
+                  "head_word": "उपयोगिन्",
+                  "lemma_names": [
+                    "उपयोगिन्",
+                    "उपकारक",
+                    "उपकारिन्",
+                    "सोपकार",
+                    "महोपकार",
+                    "प्रयोगिन्",
+                    "सार्थक",
+                    "सार्थ",
+                    "अर्थकर",
+                    "अर्थद",
+                    "अर्थवत्"
+                  ],
+                  "lemmas": [
+                    "Lemma('उपयोगिन्.adjective.2451.उपयोगिन्')",
+                    "Lemma('उपयोगिन्.adjective.2451.उपकारक')",
+                    "Lemma('उपयोगिन्.adjective.2451.उपकारिन्')",
+                    "Lemma('उपयोगिन्.adjective.2451.सोपकार')",
+                    "Lemma('उपयोगिन्.adjective.2451.महोपकार')",
+                    "Lemma('उपयोगिन्.adjective.2451.प्रयोगिन्')",
+                    "Lemma('उपयोगिन्.adjective.2451.सार्थक')",
+                    "Lemma('उपयोगिन्.adjective.2451.सार्थ')",
+                    "Lemma('उपयोगिन्.adjective.2451.अर्थकर')",
+                    "Lemma('उपयोगिन्.adjective.2451.अर्थद')",
+                    "Lemma('उपयोगिन्.adjective.2451.अर्थवत्')"
+                  ],
+                  "pos": "adjective"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
